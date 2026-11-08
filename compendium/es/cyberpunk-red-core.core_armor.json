@@ -14,8 +14,8 @@
    "description": "<p>Requiere un brazo y tiene PV que se reducen con el daño.</p>"
   },
   "Bsalv6m63PhmHkMm": {
-   "name": "Chaqueta blindada ligera (cabeza)",
-   "description": "<p>Versión ligera de la chaqueta blindada, para la cabeza. Sin penalización por armadura.</p>"
+   "name": "Blindaje ligero (cabeza)",
+   "description": "<p>Versión ligera del blindaje (Armorjack), para la cabeza. Sin penalización por armadura.</p>"
   },
   "DXavZyl7CTtgoZ6i": {
    "name": "Tejido dérmico",
@@ -30,8 +30,8 @@
    "description": "<p>Armadura asociada al ciberequipo Blindaje subdérmico.</p>"
   },
   "ReNlsir0b9jmxnPi": {
-   "name": "Chaqueta blindada media (cabeza)",
-   "description": "<p>Versión media de la chaqueta blindada, para la cabeza. -2 a REF, DES y MOV.</p>"
+   "name": "Blindaje medio (cabeza)",
+   "description": "<p>Versión media del blindaje (Armorjack), para la cabeza. -2 a REF, DES y MOV.</p>"
   },
   "gCSiPGLnb78IGA1K": {
    "name": "Cuero (cabeza)",
@@ -50,20 +50,20 @@
    "description": "<p>Kevlar estándar para la cabeza. Sin penalización por armadura.</p>"
   },
   "qLQYAFps9PrqMzUk": {
-   "name": "Chaqueta blindada pesada (cabeza)",
-   "description": "<p>Versión pesada de la chaqueta blindada, para la cabeza. -2 a REF, DES y MOV.</p>"
+   "name": "Blindaje pesado (cabeza)",
+   "description": "<p>Versión pesada del blindaje (Armorjack), para la cabeza. -2 a REF, DES y MOV.</p>"
   },
   "sV2rvaWBOntsxYvC": {
-   "name": "Chaqueta blindada media (cuerpo)",
-   "description": "<p>Versión media de la chaqueta blindada. -2 a REF, DES y MOV.</p>"
+   "name": "Blindaje medio (cuerpo)",
+   "description": "<p>Versión media del blindaje (Armorjack). -2 a REF, DES y MOV.</p>"
   },
   "uaN9WukkezPfcutU": {
-   "name": "Chaqueta blindada ligera (cuerpo)",
-   "description": "<p>Versión ligera de la chaqueta blindada. Sin penalización por armadura.</p>"
+   "name": "Blindaje ligero (cuerpo)",
+   "description": "<p>Versión ligera del blindaje (Armorjack). Sin penalización por armadura.</p>"
   },
   "vYzDZIbfJ1RfCvi9": {
-   "name": "Chaqueta blindada pesada (cuerpo)",
-   "description": "<p>Versión pesada de la chaqueta blindada. -2 a REF, DES y MOV.</p>"
+   "name": "Blindaje pesado (cuerpo)",
+   "description": "<p>Versión pesada del blindaje (Armorjack). -2 a REF, DES y MOV.</p>"
   },
   "wQXJTKA8KeEe2V2H": {
    "name": "Flak (cuerpo)",

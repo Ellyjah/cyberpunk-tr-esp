@@ -10,11 +10,11 @@
    "description": "<p>Aplicable a todos los coches. Como acción, el conductor puede desplegar una banda de clavos. Mientras está desplegada, los vehículos con neumáticos que sigan de cerca deben superar una prueba de Conducir vehículo terrestre VD17. Si fallan, su vehículo recibe 4d6 de daño como si impactara en un punto débil. Las bandas de repuesto cuestan 10 eb.</p><p>Puedes instalar esta mejora varias veces; cada una aumenta las bandas que pueden desplegarse antes de recargar, y no se puede recargar con el vehículo en marcha.</p>"
   },
   "7KjoeHsFOue8Dl42": {
-   "name": "Mejora de motor de AV-4",
+   "name": "Mejora de motor para AV-4",
    "description": "<p>Aplicable a todos los vehículos terrestres. Añade propulsores de aerodino que le permiten volar. En vuelo tiene una velocidad narrativa de 322 km/h (200 mph) y una velocidad de combate de 40. En el aire debe pilotarse con la habilidad Pilotar vehículo aéreo.</p>"
   },
   "7RZSjo4XKb5TFmkd": {
-   "name": "Mejora de contrabando",
+   "name": "Mejora de contrabandista",
    "description": "<p>Aplicable a todos los vehículos. Añade dos <strong>pistoleras ocultas</strong> y un gran compartimento oculto para contrabando, que pueden descubrirse con una prueba de <strong>Ocultar/revelar objeto VD17</strong>.</p><p>Se puede adquirir varias veces, salvo en motos, motos acuáticas y girocópteros.</p>"
   },
   "AgwuTwzg7UeI1xch": {
@@ -26,7 +26,7 @@
    "description": "<p>Convierte el arma en un «arma inteligente».</p>"
   },
   "CeCRMtA7XTyEm3HM": {
-   "name": "Mejora de seguridad",
+   "name": "Seguridad incrementada",
    "description": "<p>Aplicable a todos los vehículos. Añade cerraduras de ADN que exigen los datos biométricos correctos o una prueba de Tecnología electrónica/de seguridad VD17 para abrir. Quien falla recibe daño como si le golpeara una porra aturdidora.</p><p>Además, mientras está quieto el vehículo queda camuflado y requiere una prueba de <strong>Percepción VD17</strong> para verlo. Debe permanecer inmóvil un minuto para que se active.</p>"
   },
   "CqiwXRHzi0gzuVod": {
@@ -38,7 +38,7 @@
    "description": "<p>Guarda los programas que no son hielo negro cuando son destruidos. Un netrunner puede reinstalarlos como acción de carne.</p>"
   },
   "EUKwyodr06YR101B": {
-   "name": "Lanzamisiles integrado",
+   "name": "Pod de misiles integrado",
    "description": "<p>Aplicable a todos los vehículos salvo motos, motos acuáticas y girocópteros. Un <strong>lanzamisiles</strong> con un tambor de tres misiles, montado hacia delante. El conductor puede dispararlo con una acción. No se puede recargar mientras se conduce ni admite accesorios.</p><p>Puedes instalar esta mejora varias veces. <strong>Requiere chasis pesado</strong>.</p>"
   },
   "FiZDgbVLFADR6QTT": {
@@ -50,7 +50,7 @@
    "description": "<p>Aumenta la capacidad del cargador a nada menos que 16 cartuchos.</p>"
   },
   "Ige6zeGaInYghHM1": {
-   "name": "Ametralladora integrada",
+   "name": "Metralleta integrada",
    "description": "<p>Aplicable a todos los vehículos. Un <strong>fusil de asalto</strong> con capacidad de 30 balas, solo con disparo automático, montado hacia delante. El conductor puede dispararlo con una acción; no se puede recargar mientras se conduce ni admite accesorios.</p><p>Puedes instalar esta mejora varias veces.</p>"
   },
   "J51qZjmuEheNiamo": {
