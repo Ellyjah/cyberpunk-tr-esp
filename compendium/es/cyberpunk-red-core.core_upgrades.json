@@ -1,0 +1,209 @@
+{
+ "label": "Mejoras",
+ "entries": {
+  "3z654ef9UlgH8o1o": {
+   "name": "Cargador de tambor (subfusil)",
+   "description": "<p>Aumenta la capacidad del cargador a nada menos que 50 balas.</p>"
+  },
+  "6osSIyyHePqZSyrg": {
+   "name": "Banda de clavos desplegable",
+   "description": "<p>Aplicable a todos los coches. Como acción, el conductor puede desplegar una banda de clavos. Mientras está desplegada, los vehículos con neumáticos que sigan de cerca deben superar una prueba de Conducir vehículo terrestre VD17. Si fallan, su vehículo recibe 4d6 de daño como si impactara en un punto débil. Las bandas de repuesto cuestan 10 eb.</p><p>Puedes instalar esta mejora varias veces; cada una aumenta las bandas que pueden desplegarse antes de recargar, y no se puede recargar con el vehículo en marcha.</p>"
+  },
+  "7KjoeHsFOue8Dl42": {
+   "name": "Mejora de motor de AV-4",
+   "description": "<p>Aplicable a todos los vehículos terrestres. Añade propulsores de aerodino que le permiten volar. En vuelo tiene una velocidad narrativa de 322 km/h (200 mph) y una velocidad de combate de 40. En el aire debe pilotarse con la habilidad Pilotar vehículo aéreo.</p>"
+  },
+  "7RZSjo4XKb5TFmkd": {
+   "name": "Mejora de contrabando",
+   "description": "<p>Aplicable a todos los vehículos. Añade dos <strong>pistoleras ocultas</strong> y un gran compartimento oculto para contrabando, que pueden descubrirse con una prueba de <strong>Ocultar/revelar objeto VD17</strong>.</p><p>Se puede adquirir varias veces, salvo en motos, motos acuáticas y girocópteros.</p>"
+  },
+  "AgwuTwzg7UeI1xch": {
+   "name": "Cableado aislado",
+   "description": "<p>El ciberterminal y la ropa del usuario no pueden prenderse fuego.</p>"
+  },
+  "BC8S1sdK0QGdyHNC": {
+   "name": "Conexión de arma inteligente",
+   "description": "<p>Convierte el arma en un «arma inteligente».</p>"
+  },
+  "CeCRMtA7XTyEm3HM": {
+   "name": "Mejora de seguridad",
+   "description": "<p>Aplicable a todos los vehículos. Añade cerraduras de ADN que exigen los datos biométricos correctos o una prueba de Tecnología electrónica/de seguridad VD17 para abrir. Quien falla recibe daño como si le golpeara una porra aturdidora.</p><p>Además, mientras está quieto el vehículo queda camuflado y requiere una prueba de <strong>Percepción VD17</strong> para verlo. Debe permanecer inmóvil un minuto para que se active.</p>"
+  },
+  "CqiwXRHzi0gzuVod": {
+   "name": "Cargador de tambor (pistola mediana)",
+   "description": "<p>Aumenta la capacidad del cargador a nada menos que 36 balas.</p>"
+  },
+  "DWfusJuwJXXt59bA": {
+   "name": "Unidad de respaldo",
+   "description": "<p>Guarda los programas que no son hielo negro cuando son destruidos. Un netrunner puede reinstalarlos como acción de carne.</p>"
+  },
+  "EUKwyodr06YR101B": {
+   "name": "Lanzamisiles integrado",
+   "description": "<p>Aplicable a todos los vehículos salvo motos, motos acuáticas y girocópteros. Un <strong>lanzamisiles</strong> con un tambor de tres misiles, montado hacia delante. El conductor puede dispararlo con una acción. No se puede recargar mientras se conduce ni admite accesorios.</p><p>Puedes instalar esta mejora varias veces. <strong>Requiere chasis pesado</strong>.</p>"
+  },
+  "FiZDgbVLFADR6QTT": {
+   "name": "Montura para armas pesadas",
+   "description": "<p>Aplicable a todos los vehículos salvo motos, motos acuáticas y girocópteros. Uno de los asientos se convierte en una montura giratoria para cualquier arma a distancia de dos manos. Un pasajero puede dispararla y recargarla con una acción. El arma puede retirarse o volver a montarse con una acción.</p><p>La primera vez que se adquiere incluye un <strong>Tsunami Arms Helix</strong>, un <strong>acelerador Rhinemetall EMG-86</strong> o un <strong>lanzagranadas Militech «Cowboy» U-56</strong>. Si el vehículo tiene cristal antibalas, el tirador queda protegido por el mismo cristal.</p><p>Puedes instalar esta mejora varias veces si el vehículo tiene capacidad de alojamiento. <strong>Requiere chasis pesado</strong>.</p>"
+  },
+  "I7Uv0EmzaDAmdFeV": {
+   "name": "Cargador de tambor (escopeta)",
+   "description": "<p>Aumenta la capacidad del cargador a nada menos que 16 cartuchos.</p>"
+  },
+  "Ige6zeGaInYghHM1": {
+   "name": "Ametralladora integrada",
+   "description": "<p>Aplicable a todos los vehículos. Un <strong>fusil de asalto</strong> con capacidad de 30 balas, solo con disparo automático, montado hacia delante. El conductor puede dispararlo con una acción; no se puede recargar mientras se conduce ni admite accesorios.</p><p>Puedes instalar esta mejora varias veces.</p>"
+  },
+  "J51qZjmuEheNiamo": {
+   "name": "Cargador de tambor (lanzagranadas)",
+   "description": "<p>Aumenta la capacidad del cargador a nada menos que 6 granadas.</p>"
+  },
+  "LlcUvcVoCD6SeKOk": {
+   "name": "Nitro",
+   "description": "<p>Aplicable a todos los vehículos. Añade un depósito de óxido nitroso. Te permite usar tu acción para hacer una acción de movimiento adicional mientras conduces.</p><p>Puedes instalar esta mejora varias veces; cada una añade un depósito y cada depósito puede usarse una vez al día.</p>"
+  },
+  "M3I9ySdmNIxcuT7T": {
+   "name": "Cargador ampliado (subfusil)",
+   "description": "<p>Aumenta la capacidad del cargador a unas considerables 40 balas.</p>"
+  },
+  "P4XioOHNf343JNm9": {
+   "name": "Cargador ampliado (lanzagranadas)",
+   "description": "<p>Aumenta la capacidad del cargador a unas considerables 4 granadas.</p>"
+  },
+  "Pj3nZU2coYUGIjR3": {
+   "name": "Cristal antibalas",
+   "description": "<p>Aplicable a todos los vehículos. Todos los cristales del vehículo cuentan como cobertura con 15 PV. Se puede adquirir una segunda vez para subir a 30 PV. Cada ventana recibe el daño por separado.</p><p>Consulta las reglas de cobertura del libro básico, pág. 182.</p>"
+  },
+  "RMNHcBUByOmZ8uEo": {
+   "name": "Cargador de tambor (subfusil pesado)",
+   "description": "<p>Aumenta la capacidad del cargador a nada menos que 60 balas.</p>"
+  },
+  "Ryex0KHeeDzPQwmN": {
+   "name": "Visor de francotirador",
+   "description": "<p>Permite ver detalles hasta a 800 m. +1 a los disparos únicos y apuntados contra objetivos a más de 50 m.</p>"
+  },
+  "Ut1OZZP1KFC8o6IB": {
+   "name": "Mejora de alcance",
+   "description": "<p>El ciberterminal puede conectarse a puntos de acceso hasta a 8 m (en lugar de 6 m).</p>"
+  },
+  "WNk0YpCbxFa6iLTH": {
+   "name": "Cargador de tambor (pistola pesada)",
+   "description": "<p>Aumenta la capacidad del cargador a nada menos que 28 balas.</p>"
+  },
+  "YRDJbfFA4knBhApR": {
+   "name": "Chasis pesado",
+   "description": "<p>Aplicable a todos los vehículos salvo motos, motos acuáticas y girocópteros. Añade 20 PEE al vehículo. No afecta a los cristales, y el vehículo puede remolcar hasta 10 toneladas.</p>"
+  },
+  "aFg1nXhz37e1C2YP": {
+   "name": "Escopeta bajo el cañón",
+   "description": "<p>Funciona como una escopeta normal, pero con capacidad de cargador 2. Requiere 2 manos y ocupa 2 ranuras de accesorios. Mientras está acoplada, el arma no puede ocultarse bajo la ropa.</p><p>El arma hereda los modificadores del arma a la que está acoplada, como otros accesorios y la calidad.</p>"
+  },
+  "aKLcUoQt8I4Adxwg": {
+   "name": "Cargador ampliado (lanzamisiles)",
+   "description": "<p>Aumenta la capacidad del cargador a unas considerables 2 misiles.</p>"
+  },
+  "eGEFGoNkBzbqv8jh": {
+   "name": "Cargador ampliado (pistola pesada)",
+   "description": "<p>Aumenta la capacidad del cargador a unas considerables 14 balas.</p>"
+  },
+  "hGIBWetPmu8kxHwr": {
+   "name": "Cargador ampliado (escopeta)",
+   "description": "<p>Aumenta la capacidad del cargador a unas considerables 8 cartuchos.</p>"
+  },
+  "jz7lnKQ3dKd5GCbY": {
+   "name": "Cerradura de ADN",
+   "description": "<p>Bloquea el ciberterminal con datos biométricos. Forzarla requiere una prueba de <strong>Tecnología electrónica/de seguridad VD17</strong>.</p>"
+  },
+  "kDGBW4aA2wJ9KjUF": {
+   "name": "Barrera contra KRASH",
+   "description": "<p>El ciberterminal es inmune a los efectos que obligan al netrunner a desconectarse (de forma segura o insegura).</p>"
+  },
+  "l2lIF8c1HknhG8CN": {
+   "name": "Chasis blindado",
+   "description": "<p>Aplicable a todos los vehículos. Blinda el vehículo a PD13. No afecta a los cristales.</p>"
+  },
+  "lw6N5svBE702A6VE": {
+   "name": "Asientos adicionales",
+   "description": "<p>Aplicable a todos los vehículos. Añade dos asientos, que pueden instalarse como sidecar externo o como asientos eyectables con paracaídas extraíbles.</p><p>Se puede adquirir varias veces, salvo en motos, motos acuáticas y girocópteros.</p>"
+  },
+  "mUUjgdfV04q6T2VS": {
+   "name": "Cargador de tambor (fusil de francotirador)",
+   "description": "<p>Aumenta la capacidad del cargador a nada menos que 12 balas.</p>"
+  },
+  "mtYBtYyjuFKOMngN": {
+   "name": "Cargador de tambor (fusil de asalto)",
+   "description": "<p>Aumenta la capacidad del cargador a nada menos que 45 balas.</p>"
+  },
+  "mwyBsBDjTnEorM3x": {
+   "name": "Mejora aerodeslizante",
+   "description": "<p>Aplicable a todos los vehículos terrestres. Añade ventiladores que le permiten desplazarse sobre el agua a una velocidad narrativa de 24 km/h (15 mph) y una velocidad de combate de 10.</p>"
+  },
+  "nV0EYctCZSP41Cp0": {
+   "name": "Cargador ampliado (pistola mediana)",
+   "description": "<p>Aumenta la capacidad del cargador a unas considerables 18 balas.</p>"
+  },
+  "oEK3gfarTQznYvv8": {
+   "name": "Centro de comunicaciones",
+   "description": "<p>Aplicable a todos los vehículos. Consola táctil que funciona como un agente, con un compartimento que contiene 6 <strong>comunicadores de radio</strong>, 6 <strong>codificadores/descodificadores</strong>, un <strong>escáner de radio/reproductor de música</strong>, un <strong>rastreador</strong> con 6 botones rastreadores y una <strong>grabadora de audio</strong>.</p>"
+  },
+  "pEXcsIk1FYMNdbUc": {
+   "name": "Visor nocturno de infrarrojos",
+   "description": "<p>Reduce a 0 las penalizaciones contra objetivos en la oscuridad o entre humo o niebla.</p>"
+  },
+  "qFItKouR0zGYlnta": {
+   "name": "Capacidad de alojamiento",
+   "description": "<p>Aplicable al aerozep, al AV-4, a la embarcación de recreo, a los coches y al yate. En un coche o un AV-4 añade una zona de descanso con 1 cama, retrete, ducha y una pequeña cocina. En una embarcación de recreo, un yate o un aerozep añade un camarote.</p><p><strong>Requiere chasis pesado en el coche compacto y en el coche de alta cilindrada</strong>.</p>"
+  },
+  "qkASZxwH3nxb1AUx": {
+   "name": "Pala de combate",
+   "description": "<p>Aplicable a todos los vehículos terrestres y acuáticos salvo motos y motos acuáticas. Cuando embistes algo con la parte delantera, tu vehículo no recibe daño y nadie dentro sufre la herida crítica Latigazo cervical. Infliges 2d6 de daño adicional por embestida si el vehículo usó nitro en el turno de la embestida.</p>"
+  },
+  "s3oETYXA2wnTnrk1": {
+   "name": "Cargador ampliado (fusil de asalto)",
+   "description": "<p>Aumenta la capacidad del cargador a unas considerables 35 balas.</p>"
+  },
+  "seI3exdDPXajjFFz": {
+   "name": "Cargador ampliado (fusil de francotirador)",
+   "description": "<p>Aumenta la capacidad del cargador a unas considerables 8 balas.</p>"
+  },
+  "t6qh0xOlFcak96nC": {
+   "name": "Lanzallamas integrado",
+   "description": "<p>Aplicable a todos los vehículos. Un <strong>lanzallamas</strong> que puede montarse hacia delante, a un lado o hacia atrás. El conductor puede dispararlo con una acción. No se puede recargar mientras se conduce ni admite accesorios.</p><p>Puedes instalar esta mejora varias veces.</p>"
+  },
+  "tB66LtMSiBlZhB2W": {
+   "name": "Cargador ampliado (subfusil pesado)",
+   "description": "<p>Aumenta la capacidad del cargador a unas considerables 50 balas.</p>"
+  },
+  "uFrp6fXRYfuorIwk": {
+   "name": "Circuitos reforzados",
+   "description": "<p>Los efectos PEM no pueden inutilizar ni destruir el ciberterminal.</p>"
+  },
+  "usbN2xyBN2b5jcTX": {
+   "name": "Integración de conector interface mejorado",
+   "description": "<p>Aplicable a todas las motos. Si conduces este vehículo con conectores interface, tienes REF 8 o más y tú, un pasajero o tu moto sois objetivo de un ataque, puedes intentar esquivarlo como si fueras a pie. Si esquivas por un pasajero, esa es su defensa.</p>"
+  },
+  "utFnYSEQcCxYgwAE": {
+   "name": "Cargador ampliado (pistola muy pesada)",
+   "description": "<p>Aumenta la capacidad del cargador a unas considerables 14 balas.</p>"
+  },
+  "v2DXDjMY1NlGWdFZ": {
+   "name": "Cargador de tambor (pistola muy pesada)",
+   "description": "<p>Aumenta la capacidad del cargador a nada menos que 28 balas.</p>"
+  },
+  "wcG4hqmZAlqYZlm3": {
+   "name": "Arma cuerpo a cuerpo integrada",
+   "description": "<p>Aplicable a todos los vehículos terrestres y acuáticos. Un <strong>arma cuerpo a cuerpo muy pesada</strong> que puede montarse hacia delante, a un lado o hacia atrás. El conductor puede atacar con ella con una acción. El arma no puede retirarse.</p><p>Puedes instalar esta mejora varias veces.</p>"
+  },
+  "x6mYA3IJZaNK00nv": {
+   "name": "Lanzagranadas bajo el cañón",
+   "description": "<p>Funciona como un lanzagranadas normal, pero con capacidad de cargador 1. Requiere 2 manos y ocupa 2 ranuras de accesorios. Mientras está acoplado, el arma no puede ocultarse bajo la ropa.</p><p>El arma hereda los modificadores del arma a la que está acoplada, como otros accesorios y la calidad.</p>"
+  },
+  "xRA275R527XLwaBJ": {
+   "name": "Bayoneta",
+   "description": "<p>Una idea antigua que sigue funcionando igual de bien: te permite usar tu arma como arma cuerpo a cuerpo ligera. Mientras está acoplada, el arma no puede ocultarse bajo la ropa.</p>"
+  },
+  "y9HobxZQBhVEN5Ne": {
+   "name": "Cargador de tambor (lanzamisiles)",
+   "description": "<p>Aumenta la capacidad del cargador a nada menos que 3 misiles. Eso es mucha explosión.</p>"
+  }
+ }
+}

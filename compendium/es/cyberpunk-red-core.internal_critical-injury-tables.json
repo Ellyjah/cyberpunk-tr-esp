@@ -1,0 +1,36 @@
+{
+ "entries": {
+  "QiwaqQtocypL0FXG": {
+   "name": "Heridas Críticas (Cabeza)",
+   "results": {
+    "2-2": "Ojo perdido",
+    "3-3": "Lesión cerebral",
+    "4-4": "Ojo dañado",
+    "5-5": "Conmoción cerebral",
+    "6-6": "Mandíbula rota",
+    "7-7": "Objeto extraño (cabeza)",
+    "8-8": "Latigazo cervical",
+    "9-9": "Cráneo fracturado",
+    "10-10": "Oído dañado",
+    "11-11": "Tráquea aplastada",
+    "12-12": "Oreja perdida"
+   }
+  },
+  "n7IlIvMfg7yW1OoE": {
+   "name": "Heridas Críticas (Cuerpo)",
+   "results": {
+    "2-2": "Brazo amputado",
+    "3-3": "Mano amputada",
+    "4-4": "Colapso pulmonar",
+    "5-5": "Costillas rotas",
+    "6-6": "Brazo roto",
+    "7-7": "Objeto extraño",
+    "8-8": "Pierna rota",
+    "9-9": "Desgarro muscular",
+    "10-10": "Lesión de columna",
+    "11-11": "Dedos aplastados",
+    "12-12": "Pierna amputada"
+   }
+  }
+ }
+}

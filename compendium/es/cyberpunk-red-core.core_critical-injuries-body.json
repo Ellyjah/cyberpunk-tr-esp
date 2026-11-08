@@ -1,0 +1,49 @@
+{
+ "label": "Heridas Críticas (Cuerpo)",
+ "entries": {
+  "9N6yHeVwiGg2MkeL": {
+   "name": "Brazo amputado",
+   "description": "<p>Pierdes el brazo; suelta lo que tuviera en la mano.</p>"
+  },
+  "IKKcCgHU1lBJ4wVd": {
+   "name": "Dedos aplastados",
+   "description": "<p>-4 a las acciones con esa mano.</p>"
+  },
+  "MQpiPgEtPaIe6MJ6": {
+   "name": "Costillas rotas",
+   "description": "<p>Sufres daño crítico al final del turno si te desplazas más de 4 m a pie.</p>"
+  },
+  "RAZcouFe0FS1VN1o": {
+   "name": "Colapso pulmonar",
+   "description": "<p>-2 a MOV (MOV mínimo de 1).</p>"
+  },
+  "Y65igO9rtakP4qSs": {
+   "name": "Brazo roto",
+   "description": "<p>El brazo queda inutilizado. Suelta lo que tuviera en la mano.</p>"
+  },
+  "Z3iVuSFtma3Bx7SX": {
+   "name": "Desgarro muscular",
+   "description": "<p>-2 a los ataques cuerpo a cuerpo.</p>"
+  },
+  "pQ2F7FsQvZJyZGXe": {
+   "name": "Lesión de columna",
+   "description": "<p>Siguiente turno: sin acción, solo movimiento.</p>"
+  },
+  "vRhxMWgOHYROHeHm": {
+   "name": "Pierna amputada",
+   "description": "<p>Pierdes la pierna. No puedes esquivar. -6 a MOV (MOV mínimo de 1).</p>"
+  },
+  "xTQ2T50UGNY8DrHl": {
+   "name": "Objeto extraño",
+   "description": "<p>Sufres daño crítico al final del turno si te desplazas más de 4 m a pie.</p>"
+  },
+  "xmlFB3X2q2NAklfn": {
+   "name": "Mano amputada",
+   "description": "<p>Pierdes la mano; suelta lo que tuviera.</p>"
+  },
+  "yBy9rlhgZeaWGtHh": {
+   "name": "Pierna rota",
+   "description": "<p>-4 a MOV (MOV mínimo de 1).</p>"
+  }
+ }
+}

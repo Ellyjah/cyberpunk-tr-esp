@@ -1,0 +1,229 @@
+{
+ "label": "Equipo",
+ "entries": {
+  "0T5Yjy0asGttmbXP": {
+   "name": "Ciberterminal",
+   "description": "<p>Terminal de netrunner. 7 ranuras.</p>"
+  },
+  "0begTrdCOQcRyLMN": {
+   "name": "Armazón lineal ∑ (Sigma)",
+   "description": "<p>Exoesqueleto.</p><ul><li>Requiere 1 conector interface.</li><li>Eleva el TCO a 12 mientras está conectado.</li><li>El aumento de TCO no afecta a los PV ni a la salvación contra muerte.</li></ul>"
+  },
+  "190HaepMqp2hy7D3": {
+   "name": "Sintetizador de batería",
+   "description": "<p>Produce sonidos de batería conectado a un amplificador.</p>"
+  },
+  "1K1dtvrm7rjoraAJ": {
+   "name": "Ordenador",
+   "description": "<p>De sobremesa o portátil.</p>"
+  },
+  "347vBbRcotzYQBbW": {
+   "name": "Escáner técnico",
+   "description": "<p>+2 a varias habilidades basadas en TEC.</p>"
+  },
+  "3HWLPHE0VHMGgv48": {
+   "name": "Pintura luminosa",
+   "description": "<p>Pintura en espray que brilla en la oscuridad.</p>"
+  },
+  "88mkKO3YUWfSOGoD": {
+   "name": "Traje contra la radiación",
+   "description": "<p>Protege de la radiación a quien lo lleva.</p>"
+  },
+  "AUMkHYqfODTjgtMD": {
+   "name": "Ciberterminal (calidad excelente)",
+   "description": "<p>Terminal de netrunner. 9 ranuras.</p>"
+  },
+  "CLaUNQ7cqa05XfFg": {
+   "name": "Codificador/Descodificador",
+   "description": "<p>Codificador y receptor de comunicaciones.</p>"
+  },
+  "DO2Nzq3dw0R72dpm": {
+   "name": "Comunicador de radio",
+   "description": "<p>Alcance: 1,6 km (1 milla). Va en el oído.</p>"
+  },
+  "DsO5c0MS5tZ0bh1B": {
+   "name": "Ciberterminal (mala calidad)",
+   "description": "<p>Terminal de netrunner. 5 ranuras.</p>"
+  },
+  "ECoCsPyfIEBCSggM": {
+   "name": "Gafas de realidad virtual",
+   "description": "<p>Superponen imágenes del ciberespacio a la visión.</p>"
+  },
+  "EUZBOSRdQWOqKVUg": {
+   "name": "Bengala de carretera",
+   "description": "<p>Alcance: 100 m. Duración: 1 h.</p>"
+  },
+  "Ed0JaqTO1JyAUa47": {
+   "name": "Visor de danza cerebral",
+   "description": "<p>Aparato para ver danzas cerebrales.</p>"
+  },
+  "Fa8Mse1uXrLLWIxo": {
+   "name": "Detector de micrófonos",
+   "description": "<p>Detecta dispositivos de escucha. Alcance: 2 m.</p>"
+  },
+  "GPgc2QczR4H1rYPj": {
+   "name": "Tecnoherramienta",
+   "description": "<p>Herramienta multiusos.</p>"
+  },
+  "GqYz689ddSKQHMen": {
+   "name": "Agente",
+   "description": "<p>Teléfono inteligente con IA. +2 a Búsqueda en bibliotecas y +2 a Vestuario y estilo, según las circunstancias.</p>"
+  },
+  "IqXTqNGBmSuigIWv": {
+   "name": "Botón rastreador",
+   "description": "<p>Se puede seguir hasta a 1,6 km (1 milla) con un rastreador.</p>"
+  },
+  "JL6Nf3l7hjzDmJZ5": {
+   "name": "Binoculares",
+   "description": "<p>Aumento: ×2 o ×3.</p>"
+  },
+  "KF1c9BEkThuDVZb4": {
+   "name": "Criobomba",
+   "description": "<p>Herramienta del tamaño de un maletín para conectar a un herido. Lo pone en estasis.</p>"
+  },
+  "LKAYRh3Oecskc6kH": {
+   "name": "Chip de memoria",
+   "description": "<p>Almacenamiento de datos.</p>"
+  },
+  "LTxStSIeRegbtZpd": {
+   "name": "Máscara respiratoria antismog",
+   "description": "<p>Filtro de toxinas en el aire.</p>"
+  },
+  "Lo7rXsc5ToQf2KlN": {
+   "name": "Grabadora de audio",
+   "description": "<p>Graba 24 h de audio en un chip de memoria.</p>"
+  },
+  "M9umYS7pNx7xVTvd": {
+   "name": "Analizador químico",
+   "description": "<p>Determina la composición química de una muestra con su base de datos.</p>"
+  },
+  "NXYo2GCb0CtmIcYW": {
+   "name": "Criotanque",
+   "description": "<p>Admite a un humano adulto y cura las heridas más rápido de lo normal.</p>"
+  },
+  "NYxdMQPHdjnpYNLE": {
+   "name": "Protectores auditivos automáticos",
+   "description": "<p>Quien los lleva es inmune a los ruidos fuertes.</p>"
+  },
+  "OjMJ2SyoMr4VWmnm": {
+   "name": "Teléfono móvil desechable",
+   "description": "<p>Solo llamadas de voz.</p>"
+  },
+  "P8jFkXDk8eVKXhNJ": {
+   "name": "Detector de radares",
+   "description": "<p>Detecta haces de radar. Alcance: 100 m.</p>"
+  },
+  "QIHx5oQOirtTlAaD": {
+   "name": "Rastreador",
+   "description": "<p>Alcance: 1,6 km (1 milla).</p>"
+  },
+  "Th74cfC87RqEJKAb": {
+   "name": "Jeringa de aire comprimido",
+   "description": "<p>Jeringa hipodérmica.</p>"
+  },
+  "VgVcQgRkt8y5DL00": {
+   "name": "Cama hinchable y saco de dormir",
+   "description": "<p>Equipo portátil para dormir.</p>"
+  },
+  "VrwVUEHuMCGjp8Fi": {
+   "name": "Pistola de garfio",
+   "description": "<p>Alcance: 30 m. No se puede usar como arma.</p>"
+  },
+  "WAOq0nMUFwvnZpCr": {
+   "name": "Cinta adhesiva",
+   "description": "<p>Sirve para pegar cosas.</p>"
+  },
+  "YBkdTQgnZDOhRq90": {
+   "name": "Paquete de pienso",
+   "description": "<p>Una comida.</p>"
+  },
+  "Zp8YbDBMTCl7sy61": {
+   "name": "Amplificador de bolsillo",
+   "description": "<p>Duración: 6 h. Admite dos instrumentos.</p>"
+  },
+  "aXls5W8VKJMNT2Cm": {
+   "name": "Guante de combate",
+   "description": "<p>Guantelete pesado exótico que cubre la mano y el antebrazo. Tiene tres ranuras de opciones.</p>"
+  },
+  "aiX4CSRjs0oKGIFK": {
+   "name": "Guitarra eléctrica u otro instrumento",
+   "description": "<p>Instrumento musical. Los instrumentos eléctricos necesitan un amplificador.</p>"
+  },
+  "bZlhfqhQEVp4vodP": {
+   "name": "Tienda y material de acampada",
+   "description": "<p>Para una persona.</p>"
+  },
+  "clCxd7qkp2olsKii": {
+   "name": "Cámara de vídeo",
+   "description": "<p>12 h por chip de memoria.</p>"
+  },
+  "gRpj45rbF9faRKE3": {
+   "name": "Precocinado",
+   "description": "<p>Comida portátil. Se calienta sola.</p>"
+  },
+  "gaGUmTGViuxZ4mqR": {
+   "name": "Vial de veneno",
+   "description": "<p>2d6 de daño salvo que se supere Resistir torturas/drogas. La armadura no protege.</p>"
+  },
+  "i0xmIJjhcMKIWJ0M": {
+   "name": "Cuerda (60 m)",
+   "description": "<p>De nailon.</p>"
+  },
+  "im5VJlsJv37KsyrE": {
+   "name": "Bastón luminoso",
+   "description": "<p>Duración: 10 h. Alcance: 4 m.</p>"
+  },
+  "it4Mfyti7WPpuuYE": {
+   "name": "Gafas inteligentes",
+   "description": "<p>Gafas con dos ranuras de opciones para opciones de ciberojo.</p>"
+  },
+  "j71ouZVOvc7xEfke": {
+   "name": "Palito comestible",
+   "description": "<p>Barrita sustitutiva de una comida.</p>"
+  },
+  "klPfcM59dHl4lvWS": {
+   "name": "Bolsa de tecnomédico",
+   "description": "<p>Material médico.</p>"
+  },
+  "sMAZKb9ErPoQJ1vV": {
+   "name": "Escáner de radio/Reproductor de música",
+   "description": "<p>Recibe transmisiones de radio. Alcance: 1,6 km (1 milla).</p>"
+  },
+  "spgehgLv94vrH4Zo": {
+   "name": "Linterna",
+   "description": "<p>10 h de luz con una carga. Alcance: 100 m.</p>"
+  },
+  "tr7G2kdlPBTvyTON": {
+   "name": "Vial de biotoxina",
+   "description": "<p>3d6 de daño salvo que se supere Resistir torturas/drogas. La armadura no protege.</p>"
+  },
+  "uRkSAWB6JW8LfUqI": {
+   "name": "Bolsa de técnico",
+   "description": "<p>Bolsa de herramientas.</p>"
+  },
+  "uYXTKNbOO4ofu53c": {
+   "name": "Esposas",
+   "description": "<p>Con TCO superior a 10 se pueden romper.</p>"
+  },
+  "vlhGpguIMioeA8fe": {
+   "name": "Ganzúas",
+   "description": "<p>Necesarias para forzar cerraduras mecánicas.</p>"
+  },
+  "wbMrUpgWHROY24OC": {
+   "name": "Kit de higiene personal",
+   "description": "<p>Cepillo de dientes, etc.</p>"
+  },
+  "xH9lmDC4oWAt9l4P": {
+   "name": "Armazón lineal β (Beta)",
+   "description": "<p>Exoesqueleto.</p><ul><li>Requiere 2 conectores interface.</li><li>Eleva el TCO a 14 mientras está conectado.</li><li>El aumento de TCO no afecta a los PV ni a la salvación contra muerte.</li></ul>"
+  },
+  "xW4PlIcWJ82QSfSh": {
+   "name": "Escáner médico",
+   "description": "<p>+2 a las pruebas de Primeros auxilios o Paramédico.</p>"
+  },
+  "y2a4HDhIl7FlJyD7": {
+   "name": "Bolsa de viaje",
+   "description": "<p>Bolsa.</p>"
+  }
+ }
+}

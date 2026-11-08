@@ -1,0 +1,16 @@
+CYBERPUNK RED — TRADUCCIÓN AL CASTELLANO (cyberpunk-tr-esp) 1.0.0
+Uso privado de la mesa: no publicar ni compartir.
+
+Requisitos
+- Foundry VTT 12 (probado en 12.343), con el idioma en Español.
+- Sistema Cyberpunk RED – Core v0.92.4.
+- Módulo Babele 2.6.2 o posterior compatible con Foundry 12. Si falta, Foundry ofrecerá instalarlo al activar este módulo.
+
+Instalación
+1. Descomprime la carpeta cyberpunk-tr-esp dentro de Data/modules.
+2. En el mundo, activa Babele y «Cyberpunk RED — Traducción al castellano». Recarga.
+3. Los compendios del sistema aparecerán en castellano. Los objetos ya importados en el mundo o en los actores no cambian: vuelve a arrastrarlos desde el compendio si los quieres traducidos.
+
+Notas
+- Compatible con el Core (cyberpunk-red-core-esp): sus enlaces abren las fichas traducidas.
+- Desactivar el módulo devuelve los compendios a las traducciones que trae el propio sistema.

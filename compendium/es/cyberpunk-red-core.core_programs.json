@@ -1,0 +1,65 @@
+{
+ "label": "Programas",
+ "entries": {
+  "4D6wNDXnBUKCbJTF": {
+   "name": "Vrizzbolt",
+   "description": "<p>1d6 de daño directo al cerebro del netrunner. Reduce en 1 (mínimo 2) las acciones de RED que puede hacer en su siguiente turno.</p>"
+  },
+  "HLOBpJRg7sZRZWTO": {
+   "name": "Superglú",
+   "description": "<p>El netrunner no puede avanzar en la RED local ni desconectarse de forma segura durante 1d6 asaltos. 1 uso por netrun.</p>"
+  },
+  "Jgck7Y4kHbiOCNIv": {
+   "name": "Línea mortal venenosa",
+   "description": "<p>Destruye al azar un programa que no sea hielo negro del ciberterminal enemigo.</p>"
+  },
+  "KwNqQrQpLzbhpDNR": {
+   "name": "Te veo",
+   "description": "<p>+2 a las pruebas de Rastreo mientras está rezzeado.</p>"
+  },
+  "LArvxvm3JE9Yc9l2": {
+   "name": "Rayo infernal",
+   "description": "<p>2d6 de daño directo al cerebro del netrunner. Su equipo se incendia si no está aislado.</p>"
+  },
+  "PDYabXG1H9XbpAWS": {
+   "name": "Fuego antiaéreo",
+   "description": "<p>Los ataques de programas que no son hielo negro contra ti se reducen a 0 mientras está rezzeado. Solo puede haber 1 copia rezzeada a la vez. Cada copia tiene 1 uso por netrun.</p>"
+  },
+  "SmwW6B3Qi6svIClB": {
+   "name": "Gusano",
+   "description": "<p>+2 a las pruebas de Puerta trasera mientras está rezzeado.</p>"
+  },
+  "XIIBLQw8yb3DSnHv": {
+   "name": "Escudo",
+   "description": "<p>Detiene el primer ataque con éxito de daño cerebral de un programa que no sea hielo negro. Solo puede haber 1 copia rezzeada a la vez. Cada copia tiene 1 uso por netrun.</p>"
+  },
+  "XySJZT4SbLBmOihf": {
+   "name": "Speedy Gonzálvez",
+   "description": "<p>+2 a la Velocidad mientras está rezzeado.</p>"
+  },
+  "ccLHU1Ym4K4mnOds": {
+   "name": "Banhammer",
+   "description": "<p>Inflige 3d6 de daño al REZ a programas que no son hielo negro o 2d6 al hielo negro.</p>"
+  },
+  "h6lsYlaAZLd6eoo2": {
+   "name": "Borrado",
+   "description": "<p>+2 a las pruebas de Camuflaje mientras está rezzeado.</p>"
+  },
+  "iHUrp2OkBZb3Ugf8": {
+   "name": "Espada",
+   "description": "<p>Inflige 3d6 de daño al REZ al hielo negro o 2d6 a programas que no son hielo negro.</p>"
+  },
+  "iq3V4YMib0WVSZZD": {
+   "name": "Nerviosismo",
+   "description": "<p>Reduce en 1d6 (mínimo 1) la INT, los REF y la DES del netrunner durante 1 hora.</p>"
+  },
+  "qKOBTqM4sJzBjUXq": {
+   "name": "TermiKrash",
+   "description": "<p>Obliga al netrunner a desconectarse de forma insegura.</p>"
+  },
+  "yommG7jwlXzoyf8Z": {
+   "name": "Armadura",
+   "description": "<p>Reduce en 4 el daño cerebral mientras está rezzeado. Solo puede haber 1 copia rezzeada a la vez. Cada copia tiene 1 uso por netrun.</p>"
+  }
+ }
+}

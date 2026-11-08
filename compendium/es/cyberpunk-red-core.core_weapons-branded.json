@@ -1,0 +1,149 @@
+{
+ "label": "Armas de marca",
+ "entries": {
+  "4G6k62Kr5KWaEYoi": {
+   "name": "Dai Lung Streetmaster",
+   "description": "<p>Pistola mediana ocultable. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "5E96QcUqTey2aAUB": {
+   "name": "Militech «Mini-Gat»",
+   "description": "<p>Subfusil ocultable.</p>"
+  },
+  "9C3QjCu45JPjAroJ": {
+   "name": "Federated Arms «Súper Jefe»",
+   "description": "<p>Pistola muy pesada. No puede ocultarse. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "CgCHZfZHMOwXQF4P": {
+   "name": "Dai Lung Magnum",
+   "description": "<p>Pistola pesada ocultable. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "DEToYZjsAAoiOSMG": {
+   "name": "Towa Manufacturing Tipo-G",
+   "description": "<p>Lanzagranadas de alto impacto. Admite muchos tipos de granadas. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "HFBfeCsGnz4yd3tj": {
+   "name": "GunMart «Hunter»",
+   "description": "<p>Ballesta de mala calidad con el logotipo de GunMart; se recarga como parte de la acción de ataque.</p><p>Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "JMtv1RNPkcHsUhG2": {
+   "name": "Arasaka «Minami 10»",
+   "description": "<p>Subfusil ocultable. +1 al ataque.</p>"
+  },
+  "MKvKCHCgl6UCaj7V": {
+   "name": "Militech «Viper»",
+   "description": "<p>Subfusil pesado. Por su tamaño no puede ocultarse. +1 al ataque.</p>"
+  },
+  "Myf59TMFBOUBcB0l": {
+   "name": "Militech «Ronin»",
+   "description": "<p>Fusil de asalto reglamentario.</p>"
+  },
+  "P2iT56xeuxEgjtax": {
+   "name": "Nomad «Long Rifle»",
+   "description": "<p>Fusil de francotirador de largo alcance, muy usado por los nómadas. El cargador admite 4 balas.</p>"
+  },
+  "QrQ9bDFkwQTJstPK": {
+   "name": "Towa Manufacturing Tipo-R",
+   "description": "<p>Saca la artillería pesada: este lanzamisiles hará daño. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "SQTCvPgvqjrFJDY9": {
+   "name": "Eagletech «Striker»",
+   "description": "<p>Ballesta con el logotipo de Eagletech; se recarga como parte de la acción de ataque.</p>"
+  },
+  "SzgNXQObSAXIEErU": {
+   "name": "GunMart «Sherwood»",
+   "description": "<p>Arco de mala calidad con el logotipo de GunMart; se recarga como parte de la acción de ataque.</p><p>Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "TQhXMRbZyVmvYDKN": {
+   "name": "Tsunami Arms Tipo-18",
+   "description": "<p>Lanzagranadas de alto impacto. Admite muchos tipos de granadas. +1 al ataque.</p>"
+  },
+  "U4SOsaoPzK5fNLl7": {
+   "name": "Militech «Boomer Buster»",
+   "description": "<p>Pistola muy pesada. No puede ocultarse. +1 al ataque.</p>"
+  },
+  "Y5YESuapGoYXeibz": {
+   "name": "Militech «Mini-Granada»",
+   "description": "<p>Lanzagranadas de alto impacto. Admite muchos tipos de granadas.</p>"
+  },
+  "YsPfuh5BaSgAo05g": {
+   "name": "Militech «Dragon»",
+   "description": "<p>Fusil de asalto reglamentario. +1 al ataque.</p>"
+  },
+  "alT9Pzr61OYQH6ws": {
+   "name": "Nova «Cityhunter»",
+   "description": "<p>Pistola pesada ocultable. +1 al ataque.</p>"
+  },
+  "bl385vC6j0fRf1nV": {
+   "name": "Sternmeyer P-35",
+   "description": "<p>Pistola muy pesada. No puede ocultarse.</p>"
+  },
+  "cyW3cQE2yh2YnvWu": {
+   "name": "Sternmeyer SMG-21",
+   "description": "<p>Subfusil pesado. Por su tamaño no puede ocultarse.</p>"
+  },
+  "dTIWOSkILQ8vxgql": {
+   "name": "Federated Arms X-9mm",
+   "description": "<p>Pistola mediana ocultable.</p>"
+  },
+  "fUo0HrfEC83Wb7wj": {
+   "name": "GunMart «Snipe-Star»",
+   "description": "<p>Fusil de francotirador de largo alcance. El cargador admite 4 balas. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "fsOEUepTPQtEGJjF": {
+   "name": "Arasaka WSSA Sniper System",
+   "description": "<p>Fusil de francotirador de largo alcance. El cargador admite 4 balas. +1 al ataque.</p>"
+  },
+  "hRIo8pqAIXOUqsmN": {
+   "name": "Chadran Arms «Jungle Reaper»",
+   "description": "<p>Fusil de asalto reglamentario. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "iE4jKasWdZGtWdm9": {
+   "name": "Militech «Hotshot»",
+   "description": "<p>Saca la artillería pesada: este lanzamisiles hará daño. +1 al ataque.</p>"
+  },
+  "kMvW7mzDt2Q0lxAj": {
+   "name": "Arasaka «Asalto Rápido»",
+   "description": "<p>Escopeta polivalente.</p>"
+  },
+  "kVzR6PskkKKz0Cjc": {
+   "name": "Militech «Urban»",
+   "description": "<p>Saca la artillería pesada: este lanzamisiles hará daño.</p>"
+  },
+  "luv1w6UcSC3xHg5j": {
+   "name": "Militech «Avenger»",
+   "description": "<p>Pistola mediana ocultable. +1 al ataque.</p>"
+  },
+  "qXDYKQxwc7qwCDi3": {
+   "name": "Federated Arms Tech-Assault III",
+   "description": "<p>Subfusil ocultable. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "rbKh5MentkUWO134": {
+   "name": "Eagletech «Scorpion»",
+   "description": "<p>Ballesta estilizada con el logotipo de Eagletech; se recarga como parte de la acción de ataque.</p><p>+1 a la prueba de ataque.</p>"
+  },
+  "roLmao0FHIDPJ7eC": {
+   "name": "Chadran Arms «Urban Reaper»",
+   "description": "<p>Subfusil pesado. Por su tamaño no puede ocultarse. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "t32KOdX9C9oavu9X": {
+   "name": "Mustang Arms «Mark III»",
+   "description": "<p>Pistola pesada ocultable.</p>"
+  },
+  "tuJUMq1u3lWhVHI4": {
+   "name": "GunMart «Home Defender»",
+   "description": "<p>Escopeta polivalente. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "v5plnm8tEM468jKT": {
+   "name": "Militech «Bulldog»",
+   "description": "<p>Escopeta polivalente. +1 al ataque.</p>"
+  },
+  "vQ2AqGFnFIkXMlit": {
+   "name": "Eagletech «Tomcat»",
+   "description": "<p>Arco renovado con el logotipo de Eagletech; se recarga como parte de la acción de ataque.</p>"
+  },
+  "xwofGnPKXsqhCbjP": {
+   "name": "Eagletech «Bearcat»",
+   "description": "<p>Arco plegable con el logotipo de Eagletech; se recarga como parte de la acción de ataque.</p><p>+1 a la prueba de ataque.</p>"
+  }
+ }
+}

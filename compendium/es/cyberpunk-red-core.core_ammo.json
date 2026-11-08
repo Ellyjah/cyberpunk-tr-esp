@@ -1,0 +1,225 @@
+{
+ "label": "Munición",
+ "entries": {
+  "048cmb4eS7HiAosc": {
+   "name": "Munición expansiva (flecha)",
+   "description": "<p>Si la víctima saca la herida crítica Objeto extraño (véase pág. 187), tira además otra herida crítica distinta. La segunda herida crítica no inflige daño adicional.</p>"
+  },
+  "1DmAuk2SsgDh0YqG": {
+   "name": "Munición venenosa (flecha)",
+   "description": "<p>No causa daño inmediato. Si impacta en un objetivo de carne, prueba de <strong>Resistir torturas/drogas VD13</strong>. Si falla, 2d6 de daño a los PV. Sin ablación.</p>"
+  },
+  "314PiB9i0ahRqfZv": {
+   "name": "Munición inteligente (pistola pesada)",
+   "description": "<p>Requiere el ciberequipo Sistema de puntería; si no, no dispara. Si un ataque único falla por 4 o menos, se tira un segundo ataque contra la misma VD con 1d10+10 (no con la característica habitual). Se puede añadir Suerte. El objetivo puede esquivar el segundo ataque con normalidad si puede hacerlo.</p>"
+  },
+  "3rtsVDMaB16lc5tY": {
+   "name": "Munición lacrimógena (granada)",
+   "description": "<p>No causa daño. Los objetivos alcanzados con ojos de carne tiran <strong>Resistir torturas/drogas VD13</strong>. Si fallan, sufren la herida crítica Ojo dañado (véase pág. 188) durante 1 minuto. No inflige daño crítico adicional.</p>"
+  },
+  "67GcScXFPCzIGi4s": {
+   "name": "Munición perforante (pistola pesada)",
+   "description": "<p>Doble ablación a la armadura.</p>"
+  },
+  "6FCKkulioIa0IQOr": {
+   "name": "Munición expansiva (pistola muy pesada)",
+   "description": "<p>Si la víctima saca la herida crítica Objeto extraño (véase pág. 187), tira además otra herida crítica distinta. La segunda herida crítica no inflige daño adicional.</p>"
+  },
+  "6OdC9uNTwgQLFdto": {
+   "name": "Munición básica (pistola mediana)",
+   "description": "<p>Munición básica, sin nada especial.</p>"
+  },
+  "6dwSiAhYho02ZtgL": {
+   "name": "Munición inteligente (pistola mediana)",
+   "description": "<p>Requiere el ciberequipo Sistema de puntería; si no, no dispara. Si un ataque único falla por 4 o menos, se tira un segundo ataque contra la misma VD con 1d10+10 (no con la característica habitual). Se puede añadir Suerte. El objetivo puede esquivar el segundo ataque con normalidad si puede hacerlo.</p>"
+  },
+  "6ta0PBU9FFrkg97B": {
+   "name": "Munición de goma (pistola muy pesada)",
+   "description": "<p>No causa heridas críticas ni ablación a la armadura. Deja al objetivo con al menos 1 PV. Cuenta como munición básica para las armas exóticas.</p>"
+  },
+  "7xhKxgwOELzaPyYr": {
+   "name": "Munición de humo (granada)",
+   "description": "<p>No causa daño. Llena de humo una zona de 10 × 10 m durante 1 minuto. Las tareas dificultadas por el humo tienen una penalización de -4.</p>"
+  },
+  "BEj2oUj2UOKgBFDz": {
+   "name": "Munición perforante (fusil)",
+   "description": "<p>Doble ablación a la armadura.</p>"
+  },
+  "CNMadbNFM6dk2F6H": {
+   "name": "Munición biotóxica (flecha)",
+   "description": "<p>No causa daño inmediato. Si impacta, prueba de <strong>Resistir torturas/drogas VD15</strong>. Si falla, 3d6 de daño a los PV. Sin ablación.</p>"
+  },
+  "CTfIn76uMH5nGGqB": {
+   "name": "Munición básica (flecha)",
+   "description": "<p>Munición básica, sin nada especial.</p>"
+  },
+  "CiskMOqNs2y5axDS": {
+   "name": "Bolas de pintura (ácido)",
+   "description": "<p>Bolas de pintura rellenas de ácido. No causan daño, pero producen 1 de ablación al PD al impactar*.</p><p><em>*Aún no está automatizado: reduce la armadura a mano al impactar.</em></p>"
+  },
+  "FXatnNvunRDgqfbQ": {
+   "name": "Munición inteligente (pistola muy pesada)",
+   "description": "<p>Requiere el ciberequipo Sistema de puntería; si no, no dispara. Si un ataque único falla por 4 o menos, se tira un segundo ataque contra la misma VD con 1d10+10 (no con la característica habitual). Se puede añadir Suerte. El objetivo puede esquivar el segundo ataque con normalidad si puede hacerlo.</p>"
+  },
+  "IJhN5QHmu4hAJxLo": {
+   "name": "Munición incendiaria (granada)",
+   "description": "<p>Si inflige daño, el objetivo se prende fuego. Sufre 2 de daño a los PV al final de su turno salvo que use una acción para apagar las llamas. No es acumulable.</p>"
+  },
+  "Iz3NKqODGVjxJqTY": {
+   "name": "Munición expansiva (pistola pesada)",
+   "description": "<p>Si la víctima saca la herida crítica Objeto extraño (véase pág. 187), tira además otra herida crítica distinta. La segunda herida crítica no inflige daño adicional.</p>"
+  },
+  "J3NfMgRdqoUwFDDs": {
+   "name": "Munición básica (fusil)",
+   "description": "<p>Munición básica, sin nada especial.</p>"
+  },
+  "LUn1NLURJhyUcta3": {
+   "name": "Munición inteligente (flecha)",
+   "description": "<p>Requiere el ciberequipo Sistema de puntería; si no, no dispara. Si un ataque único falla por 4 o menos, se tira un segundo ataque contra la misma VD con 1d10+10 (no con la característica habitual). Se puede añadir Suerte. El objetivo puede esquivar el segundo ataque con normalidad si puede hacerlo.</p>"
+  },
+  "MdA5gBfCKbBuHGof": {
+   "name": "Munición incendiaria (cartucho de escopeta)",
+   "description": "<p>Si inflige daño, el objetivo se prende fuego. Sufre 2 de daño a los PV al final de su turno salvo que use una acción para apagar las llamas. No es acumulable.</p>"
+  },
+  "MfuoJ69NL1FiP7B8": {
+   "name": "Batería",
+   "description": "<p>Batería recargable (1 hora), habitual en las armas exóticas. Contiene 8 disparos y puede recargarse.</p>"
+  },
+  "NQP4I9heyv9fXj46": {
+   "name": "Munición básica (pistola muy pesada)",
+   "description": "<p>Munición básica, sin nada especial.</p>"
+  },
+  "OufLzsBG6w0CUp81": {
+   "name": "Munición venenosa (granada)",
+   "description": "<p>No causa daño inmediato. Si impacta en un objetivo de carne, prueba de <strong>Resistir torturas/drogas VD13</strong>. Si falla, 2d6 de daño a los PV. Sin ablación.</p>"
+  },
+  "PBA9BUs49TQeLoDi": {
+   "name": "Munición perforante (pistola mediana)",
+   "description": "<p>Doble ablación a la armadura.</p>"
+  },
+  "QHpJ8EeoAnIWsFvZ": {
+   "name": "Munición perforante (flecha)",
+   "description": "<p>Doble ablación a la armadura.</p>"
+  },
+  "TIDzfziwhCxuIrnT": {
+   "name": "Munición incendiaria (pistola muy pesada)",
+   "description": "<p>Si inflige daño, el objetivo se prende fuego. Sufre 2 de daño a los PV al final de su turno salvo que use una acción para apagar las llamas. No es acumulable.</p>"
+  },
+  "TOftCgogDvWvXV1z": {
+   "name": "Munición biotóxica (granada)",
+   "description": "<p>No causa daño inmediato. Si impacta, prueba de <strong>Resistir torturas/drogas VD15</strong>. Si falla, 3d6 de daño a los PV. Sin ablación.</p>"
+  },
+  "TcVJvGcbgK30TNUJ": {
+   "name": "Munición incendiaria (pistola pesada)",
+   "description": "<p>Si inflige daño, el objetivo se prende fuego. Sufre 2 de daño a los PV al final de su turno salvo que use una acción para apagar las llamas. No es acumulable.</p>"
+  },
+  "U6VMjZRYgJMlMSsg": {
+   "name": "Munición incendiaria (fusil)",
+   "description": "<p>Si inflige daño, el objetivo se prende fuego. Sufre 2 de daño a los PV al final de su turno salvo que use una acción para apagar las llamas. No es acumulable.</p>"
+  },
+  "WOJD6hQVUVEK8AsJ": {
+   "name": "Munición de goma (pistola pesada)",
+   "description": "<p>No causa heridas críticas ni ablación a la armadura. Deja al objetivo con al menos 1 PV. Cuenta como munición básica para las armas exóticas.</p>"
+  },
+  "WjWIkjjjMW4j5Bzp": {
+   "name": "Munición expansiva (bala de escopeta)",
+   "description": "<p>Si la víctima saca la herida crítica Objeto extraño (véase pág. 187), tira además otra herida crítica distinta. La segunda herida crítica no inflige daño adicional.</p>"
+  },
+  "XrmjWt5BvX6meuUs": {
+   "name": "Bolas de pintura (básicas)",
+   "description": "<p>Bolas de pintura normales que no causan daño. Aunque molestan.</p>"
+  },
+  "YFnV9OetCCRru5Ky": {
+   "name": "Munición básica (bala de escopeta)",
+   "description": "<p>Munición básica, sin nada especial.</p>"
+  },
+  "YFtrIcr5qsT2zO9V": {
+   "name": "Munición perforante (bala de escopeta)",
+   "description": "<p>Doble ablación a la armadura.</p>"
+  },
+  "Yzo60c2pXKZ88QzM": {
+   "name": "Munición tranquilizante (flecha)",
+   "description": "<p>No causa daño. Si impacta en un objetivo de carne, <strong>Resistir torturas/drogas VD13</strong>. Si falla, queda tumbado (véase pág. 169) e inconsciente durante 1 minuto. Se despierta si sufre daño o si otra persona usa una acción para tocarlo o zarandearlo.</p>"
+  },
+  "dHHTQLHUkd0IX8GI": {
+   "name": "Munición perforante (misil)",
+   "description": "<p>Doble ablación a la armadura.</p>"
+  },
+  "e2w1oKiv8t68chiI": {
+   "name": "Munición inteligente (misil)",
+   "description": "<p>Requiere el ciberequipo Sistema de puntería; si no, no dispara. Si un ataque único falla por 4 o menos, se tira un segundo ataque contra la misma VD con 1d10+10 (no con la característica habitual). Se puede añadir Suerte. El objetivo puede esquivar el segundo ataque con normalidad si puede hacerlo.</p>"
+  },
+  "e8gDMbdK1oPKwhqW": {
+   "name": "Munición aturdidora (granada)",
+   "description": "<p>No causa daño. Si impacta, tira <strong>Resistir torturas/drogas VD15</strong>. Si falla, sufre las heridas críticas Ojo dañado y Oído dañado (véase pág. 188) durante 1 minuto. No inflige daño crítico.</p>"
+  },
+  "eRpD2JusdqIHCN7f": {
+   "name": "Munición incendiaria (flecha)",
+   "description": "<p>Si inflige daño, el objetivo se prende fuego. Sufre 2 de daño a los PV al final de su turno salvo que use una acción para apagar las llamas. No es acumulable.</p>"
+  },
+  "iAEhmFnY7U26bKvN": {
+   "name": "Munición PEM (granada)",
+   "description": "<p>Si impacta, prueba de <strong>Cibertecnología VD15</strong>. Si falla, 2 piezas de ciberequipo o de electrónica que lleve (a elección del DJ) dejan de funcionar durante 1 minuto. Los cibermiembros cuelgan inertes como un brazo de carne amputado (véase pág. 187).</p>"
+  },
+  "imYSBydexTxoHynu": {
+   "name": "Munición inteligente (bala de escopeta)",
+   "description": "<p>Requiere el ciberequipo Sistema de puntería; si no, no dispara. Si un ataque único falla por 4 o menos, se tira un segundo ataque contra la misma VD con 1d10+10 (no con la característica habitual). Se puede añadir Suerte. El objetivo puede esquivar el segundo ataque con normalidad si puede hacerlo.</p>"
+  },
+  "jmia1vHSv6bdQEVP": {
+   "name": "Munición básica (pistola pesada)",
+   "description": "<p>Munición básica, sin nada especial.</p>"
+  },
+  "mDk8gPTM1ENRcB0K": {
+   "name": "Munición expansiva (fusil)",
+   "description": "<p>Si la víctima saca la herida crítica Objeto extraño (véase pág. 187), tira además otra herida crítica distinta. La segunda herida crítica no inflige daño adicional.</p>"
+  },
+  "mkI1KpjAOUz9PxRM": {
+   "name": "Munición básica (cartucho de escopeta)",
+   "description": "<p>Munición básica, sin nada especial.</p>"
+  },
+  "n1vIKB6Mln9XgUXL": {
+   "name": "Munición de goma (pistola mediana)",
+   "description": "<p>No causa heridas críticas ni ablación a la armadura. Deja al objetivo con al menos 1 PV. Cuenta como munición básica para las armas exóticas.</p>"
+  },
+  "n3AunwSvl6L44MRF": {
+   "name": "Munición inteligente (fusil)",
+   "description": "<p>Requiere el ciberequipo Sistema de puntería; si no, no dispara. Si un ataque único falla por 4 o menos, se tira un segundo ataque contra la misma VD con 1d10+10 (no con la característica habitual). Se puede añadir Suerte. El objetivo puede esquivar el segundo ataque con normalidad si puede hacerlo.</p>"
+  },
+  "oFcsVOL1UHu7MTnu": {
+   "name": "Munición perforante (pistola muy pesada)",
+   "description": "<p>Doble ablación a la armadura.</p>"
+  },
+  "qA9wmNHuGLsxBtRB": {
+   "name": "Munición de goma (fusil)",
+   "description": "<p>No causa heridas críticas ni ablación a la armadura. Deja al objetivo con al menos 1 PV. Cuenta como munición básica para las armas exóticas.</p>"
+  },
+  "qRKLIX7yU2n83JKJ": {
+   "name": "Munición de goma (bala de escopeta)",
+   "description": "<p>No causa heridas críticas ni ablación a la armadura. Deja al objetivo con al menos 1 PV. Cuenta como munición básica para las armas exóticas.</p>"
+  },
+  "rjTyO2vXdd4T19Me": {
+   "name": "Munición tranquilizante (granada)",
+   "description": "<p>No causa daño. Si impacta en un objetivo de carne, <strong>Resistir torturas/drogas VD13</strong>. Si falla, queda tumbado (véase pág. 169) e inconsciente durante 1 minuto. Se despierta si sufre daño o si otra persona usa una acción para tocarlo o zarandearlo.</p>"
+  },
+  "tXkeWEPGKEJEgCPW": {
+   "name": "Munición de goma (flecha)",
+   "description": "<p>No causa heridas críticas ni ablación a la armadura. Deja al objetivo con al menos 1 PV. Cuenta como munición básica para las armas exóticas.</p>"
+  },
+  "tivSfxqoNYnBlNah": {
+   "name": "Munición perforante (granada)",
+   "description": "<p>Doble ablación a la armadura.</p>"
+  },
+  "wTLwxLUvBBoM3yhM": {
+   "name": "Munición incendiaria (pistola mediana)",
+   "description": "<p>Si inflige daño, el objetivo se prende fuego. Sufre 2 de daño a los PV al final de su turno salvo que use una acción para apagar las llamas. No es acumulable.</p>"
+  },
+  "yEZOd9wbzrw30wKz": {
+   "name": "Munición expansiva (pistola mediana)",
+   "description": "<p>Si la víctima saca la herida crítica Objeto extraño (véase pág. 187), tira además otra herida crítica distinta. La segunda herida crítica no inflige daño adicional.</p>"
+  },
+  "yxGinCJXUJjdsK0g": {
+   "name": "Munición incendiaria (bala de escopeta)",
+   "description": "<p>Si inflige daño, el objetivo se prende fuego. Sufre 2 de daño a los PV al final de su turno salvo que use una acción para apagar las llamas. No es acumulable.</p>"
+  }
+ }
+}

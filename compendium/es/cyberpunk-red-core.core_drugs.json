@@ -1,0 +1,45 @@
+{
+ "label": "Drogas",
+ "entries": {
+  "3xF0I3J9RnSxf4Ux": {
+   "name": "Velosan",
+   "description": "<p>Inyectar Velosan al objetivo le hace recuperar de inmediato tantos PV como su TCO más su VOL. No funciona con objetivos mortalmente heridos y solo puede usarse una vez al día en el mismo objetivo.</p>"
+  },
+  "6BM5WFyCyIM8lZib": {
+   "name": "Encaje negro",
+   "description": "<p><strong>Efecto primario</strong></p><p>La dosis dura 24 horas.</p><ul><li>El usuario tira 2d6 de pérdida de Humanidad, que recupera si supera la salvación del efecto secundario.</li><li>El usuario ignora el estado de herida Gravemente herido mientras dura.</li></ul><p><strong>Efecto secundario (VD17)</strong></p><p>Cuando la dosis se pasa, el usuario tira <strong>VOL + Resistir torturas/drogas + 1d10 contra la VD del efecto secundario</strong>.</p><ul><li>Si falla, no recupera la Humanidad perdida.</li><li>Salvo bajo el efecto primario, REF -2.</li></ul>"
+  },
+  "82sXoExwFlRIWesU": {
+   "name": "Energizante",
+   "description": "<p>Inyectar energizante al objetivo lo vuelve inmune a la falta de sueño durante 24 horas. Solo puede usarse una vez por semana en el mismo objetivo.</p>"
+  },
+  "CyYpPh89G7IYyryM": {
+   "name": "Sintecoca",
+   "description": "<p><strong>Efecto primario</strong></p><p>La dosis dura 4 horas.</p><ul><li>+1 a REF mientras dura.</li><li>El usuario se siente paranoico de vez en cuando.</li></ul><p><strong>Efecto secundario (VD15)</strong></p><ul><li>-2 a REF salvo bajo el efecto primario.</li><li>El DJ te dirá cuándo te apetece tomar más sintecoca. Interprétalo.</li></ul>"
+  },
+  "PRLDaeBVeMuBBIeO": {
+   "name": "Smash",
+   "description": "<p><strong>Efecto primario</strong></p><p>La dosis dura 4 horas.</p><p>El usuario se siente feliz y satisfecho y recibe un modificador temporal de +2 a las siguientes habilidades:</p><ul><li>Baile</li><li>Contorsionismo</li><li>Conversación</li><li>Percepción humana</li><li>Persuasión</li><li>Actuación</li></ul><p><strong>Efecto secundario (VD15)</strong></p><p>El usuario se vuelve adicto al smash.</p><p>Mientras es adicto, sufre un modificador de -2 a las siguientes habilidades:</p><ul><li>Baile</li><li>Contorsionismo</li><li>Conversación</li><li>Percepción humana</li><li>Persuasión</li><li>Actuación</li></ul><p>El DJ te dirá cuándo te apetece tomar más smash. Interprétalo.</p>"
+  },
+  "UrKzMiFp4xFOLNIC": {
+   "name": "Cristal azul",
+   "description": "<p><strong>Efecto primario</strong></p><p>La dosis dura 4 horas.</p><ul><li>El DJ puede decirle de vez en cuando al usuario que ve remolinos de colores. Cuando ocurre, el usuario pierde su acción en ese turno.</li></ul><p><strong>Efecto secundario (VD15)</strong></p><ul><li>El DJ puede decirle de vez en cuando al usuario que ve remolinos de colores. Cuando ocurre, el usuario pierde su acción en ese turno.</li></ul>"
+  },
+  "ags0aoY9ViaGvTIb": {
+   "name": "Antibiótico",
+   "description": "<p>Si el objetivo ya ha comenzado la curación natural, inyectarle antibiótico hace que recupere 2 puntos de vida adicionales al día durante una semana. Este efecto no es acumulable.</p>"
+  },
+  "fRtXPlBcWvtgtNTf": {
+   "name": "Rapidetox",
+   "description": "<p>Inyectar Rapidetox al objetivo elimina los efectos de cualquier droga, veneno o sustancia tóxica que le esté afectando.</p>"
+  },
+  "r21n9rFplUOtnjHM": {
+   "name": "Stim",
+   "description": "<p>Inyectar Stim al objetivo hace que ignore todas las penalizaciones por estar gravemente herido durante una hora. Solo puede usarse una vez al día en el mismo objetivo.</p>"
+  },
+  "ut8jpew6V3q58ivX": {
+   "name": "Boost",
+   "description": "<p><strong>Efecto primario</strong></p><p>La dosis dura 24 horas.</p><ul><li>El usuario tiene INT +2 mientras dura.</li></ul><p><strong>Efecto secundario (VD17)</strong></p><ul><li>INT -2.</li></ul>"
+  }
+ }
+}

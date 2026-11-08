@@ -1,0 +1,45 @@
+{
+ "label": "Roles",
+ "entries": {
+  "8wRoRsRQnpt3Je00": {
+   "name": "Tecnomédico",
+   "description": "<p>Médicos de callejón y mecánicos de ciberequipo que usan sus habilidades para mantener a los demás edgerunners en buena forma y bien cibernetizados, a menudo a cambio de un precio.</p>"
+  },
+  "E2NkaEAx8Rv4nqWQ": {
+   "name": "Nómada",
+   "description": "<p>Gente del motor, camioneros, aficionados al transporte, piratas del aire: son los únicos que llevan mercancías por todo el mundo y mantienen las cadenas de transporte y suministro en la Era del Rojo.</p>"
+  },
+  "Ek251OMdphcqzWPP": {
+   "name": "Periodista",
+   "description": "<p>Reporteros, influencers y fenómenos culturales, dispuestos a sacar a la luz la verdad por todos los medios necesarios.</p>"
+  },
+  "I4qtphsiVa4rj9U8": {
+   "name": "Mercenario",
+   "description": "<p>Expertos en combate que usan su destreza en la lucha para imponerse en la Era del Rojo, una época sin ley.</p>"
+  },
+  "MauQVKqh2mLLWXA8": {
+   "name": "Ejecutivo",
+   "description": "<p>Ejecutivos de empresa y defensores bien pagados, dispuestos a arriesgarlo todo para ascender en la jerarquía corporativa y hacer realidad el nuevo sueño americano.</p>"
+  },
+  "f815HiiDpThbd7eY": {
+   "name": "Técnico",
+   "description": "<p>Su conocimiento superior de todo lo tecnológico les permite inventar, mejorar y reparar para que el futuro sombrío siga funcionando.</p>"
+  },
+  "fR6KBqJgywWfhI2n": {
+   "name": "Arreglador",
+   "description": "<p>Pueden conseguirle cualquier cosa a cualquiera, siempre que el precio sea justo. Con su encanto y su habilidad para el comercio, cierran los tratos que mantienen en marcha la economía del futuro sombrío.</p>"
+  },
+  "g5S5E8UG1QJ4yFsp": {
+   "name": "Netrunner",
+   "description": "<p>Hackers expertos que se arriesgan conectándose al ciberespacio para descargar secretos e infiltrarse en redes.</p>"
+  },
+  "kDE2jnvcsbbz1vaL": {
+   "name": "Policía",
+   "description": "<p>Defensores renegados, equipos de asalto corporativos o los últimos restos de una fuerza policial gubernamental: patrullan las calles para imponer algo de orden en un mundo sin ley.</p>"
+  },
+  "ybQOwW3ICzHY7LiQ": {
+   "name": "Rockero",
+   "description": "<p>Artistas rebeldes que usan su arte para influir en sus fans y en las multitudes, y para plantar cara.</p>"
+  }
+ }
+}

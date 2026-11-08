@@ -1,0 +1,49 @@
+{
+ "label": "Heridas Críticas (Cabeza)",
+ "entries": {
+  "VWmTqmsW6S5v51FO": {
+   "name": "Mandíbula rota",
+   "description": "<p>-4 a las acciones que impliquen hablar.</p>"
+  },
+  "e5wyX6r4Tem6bNwQ": {
+   "name": "Latigazo cervical",
+   "description": "<p>Sin más efectos que aumentar en 1 la penalización base a las salvaciones contra muerte.</p>"
+  },
+  "jcOCxBFrKo5oBmOy": {
+   "name": "Cráneo fracturado",
+   "description": "<p>Los disparos apuntados a la cabeza triplican el daño a los PV (en lugar del doble habitual).</p>"
+  },
+  "mVE8ovTniNKFs9Y7": {
+   "name": "Tráquea aplastada",
+   "description": "<p>No puedes hablar.</p>"
+  },
+  "oi3MEn9Y8zdbooNe": {
+   "name": "Lesión cerebral",
+   "description": "<p>-2 a las acciones.</p>"
+  },
+  "q7yxRKUMzOf9o5qO": {
+   "name": "Oreja perdida",
+   "description": "<p>Pierdes la oreja. Si te desplazas más de 4 m en un turno, no puedes moverte en el siguiente. -4 a la Percepción basada en el oído.</p>"
+  },
+  "qRkCxq0KTuBnw2wj": {
+   "name": "Oído dañado",
+   "description": "<p>Si te desplazas más de 4 m en un turno, no puedes moverte en el siguiente. -2 a la Percepción basada en el oído.</p>"
+  },
+  "qoegLCfpEOQifeZq": {
+   "name": "Ojo dañado",
+   "description": "<p>-2 a los ataques a distancia y a la Percepción (vista).</p>"
+  },
+  "vysFvuTpuG2aDDIz": {
+   "name": "Ojo perdido",
+   "description": "<p>Pierdes el ojo. -4 a los ataques a distancia y a la Percepción basada en la vista.</p>"
+  },
+  "xfzYp9N5c6jEKiBR": {
+   "name": "Objeto extraño (cabeza)",
+   "description": "<p>Sufres daño crítico al final del turno si te desplazas más de 4 m a pie.</p>"
+  },
+  "yyVVirrpH1O0DMYB": {
+   "name": "Conmoción cerebral",
+   "description": "<p>-2 a todas las acciones.</p>"
+  }
+ }
+}

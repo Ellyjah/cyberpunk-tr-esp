@@ -1,0 +1,405 @@
+{
+ "label": "Armas",
+ "entries": {
+  "1QtzRIIpGuvL1Msn": {
+   "name": "Bate con clavos (mala calidad)",
+   "description": "<p>Una mejora sobre el bate normal: tiene varios clavos atravesados cerca de la punta. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "29p2bEfPcAWHpsTY": {
+   "name": "Arma arrojadiza",
+   "description": "<p>Lanzar un objeto sin más. Usa una acción para hacer un ataque a distancia de hasta 25 m. Los objetivos pueden esquivar el lanzamiento si pueden esquivar balas. Las armas cuerpo a cuerpo infligen su daño base, pero no atraviesan la mitad del PD.</p>"
+  },
+  "2XBlQq4DtxnwRTk4": {
+   "name": "Bate de béisbol (mala calidad)",
+   "description": "<p>Un bate bien contrapesado. El arma favorita de las Baseball Furies. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "2wP5wan7HZmaRuh3": {
+   "name": "Machete (mala calidad)",
+   "description": "<p>Cuchillo de hoja larga con muchos usos. Es el favorito de algunas pandillas de Night City. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "30W4ja1h6Sq42cB9": {
+   "name": "Lanzagranadas (mala calidad)",
+   "description": "<p>Lanzagranadas de alto impacto. Admite muchos tipos de granadas. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "37MMJ9HlsL6mCt2D": {
+   "name": "Palanca",
+   "description": "<p>Útil como herramienta y como arma. Una barra de hierro con extremos en cuña.</p>"
+  },
+  "4L05qIZxsy0uDSHz": {
+   "name": "Pistola muy pesada",
+   "description": "<p>Pistola muy pesada. No puede ocultarse.</p>"
+  },
+  "5DZRWppYOzCk9rgQ": {
+   "name": "Arma de asalto Hurricane de Constitution Arms",
+   "description": "<p>Escopeta exótica con CDD 2. No puede hacer disparos apuntados y requiere TCO 11 o más (salvo montada).</p>"
+  },
+  "6ZKnohADyqX5Iyqz": {
+   "name": "Escopeta (calidad excelente)",
+   "description": "<p>Escopeta polivalente. +1 al ataque.</p>"
+  },
+  "7PzmirTyjLFyCUcs": {
+   "name": "Arma cuerpo a cuerpo muy pesada (calidad excelente)",
+   "description": "<p>Arma cuerpo a cuerpo muy pesada genérica. +1 al ataque.</p>"
+  },
+  "7XYWTgEJB50CN7Xm": {
+   "name": "Bate de béisbol (calidad excelente)",
+   "description": "<p>Un bate bien contrapesado. El arma favorita de las Baseball Furies. +1 al ataque.</p>"
+  },
+  "7sZiyRANkHY7yyNw": {
+   "name": "Arma cuerpo a cuerpo muy pesada (mala calidad)",
+   "description": "<p>Arma cuerpo a cuerpo muy pesada genérica. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "8ZDEswdFk7K839Dn": {
+   "name": "Kendachi Mono-tres",
+   "description": "<p>Arma cuerpo a cuerpo muy pesada exótica, de calidad excelente y a dos manos. Parece una katana de alta tecnología e ignora cualquier armadura inferior a PD11.</p>"
+  },
+  "9alzkarjimr2QXmn": {
+   "name": "Aspas de helicóptero (calidad excelente)",
+   "description": "<p>Sacadas de una aeronave abandonada, estas aspas cortan casi cualquier cosa con facilidad. +1 al ataque.</p>"
+  },
+  "B53FFRpbpoT3VPP0": {
+   "name": "Pistola sónica",
+   "description": "<p>Pistola muy pesada exótica. Hace falta protección auditiva para evitar la herida crítica Oído dañado. El objetivo debe superar una prueba de <strong>Resistir torturas/drogas VD15</strong> o sufrir la herida crítica @UUID[Compendium.cyberpunk-red-core.core_critical-injuries-head.Item.qRkCxq0KTuBnw2wj]{Oído dañado}.</p>"
+  },
+  "BWLryyUI4fVpD70G": {
+   "name": "Ballesta",
+   "description": "<p>Ballesta normal; se recarga como parte de la acción de ataque.</p>"
+  },
+  "Brw1noBAwDuFqO2T": {
+   "name": "Mazo",
+   "description": "<p>Un objeto grande en forma de maza con una cabeza metálica plana que reparte la fuerza del golpe sobre una zona amplia.</p>"
+  },
+  "BwKdGqLl5bnHJ1VB": {
+   "name": "Tomahawk (mala calidad)",
+   "description": "<p>Hacha ligera que se puede lanzar. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "CJk0YRgshf45bCTz": {
+   "name": "Pistola pesada (calidad excelente)",
+   "description": "<p>Pistola pesada ocultable. +1 al ataque.</p>"
+  },
+  "CQ3pmuNqBNFiNMBd": {
+   "name": "Pistola muy pesada (mala calidad)",
+   "description": "<p>Pistola muy pesada. No puede ocultarse. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "CnLh2ODjGnlRrYGP": {
+   "name": "Fusil de francotirador (mala calidad)",
+   "description": "<p>Fusil de francotirador de largo alcance. El cargador admite 4 balas. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "DDFkD0nWwz34WjRE": {
+   "name": "Ballesta (calidad excelente)",
+   "description": "<p>Ballesta normal; se recarga como parte de la acción de ataque. +1 al ataque.</p>"
+  },
+  "DXVvTnvnQKLp9Uky": {
+   "name": "Acelerador Rhinemetall EMG-86",
+   "description": "<p>Fusil de asalto exótico. No puede hacer disparos apuntados ni automáticos. Requiere TCO 11 o más (salvo montado). Ignora cualquier armadura inferior a PD11.</p>"
+  },
+  "DrYW7Wu9wt8waU28": {
+   "name": "Subfusil pesado (mala calidad)",
+   "description": "<p>Subfusil pesado. Por su tamaño no puede ocultarse. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "ES0FYqZpy8NcDrEZ": {
+   "name": "Palanca (mala calidad)",
+   "description": "<p>Útil como herramienta y como arma. Una barra de hierro con extremos en cuña. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "EgU8e5iJFIvQKFEv": {
+   "name": "Espada",
+   "description": "<p>Arma con hoja y empuñadura, diseñada para cortar o estocar.</p>"
+  },
+  "Ew9qfNB7omExalEu": {
+   "name": "Fusil de asalto (calidad excelente)",
+   "description": "<p>Fusil de asalto reglamentario. +1 al ataque.</p>"
+  },
+  "FdWzIROFGFrpvFMj": {
+   "name": "Subfusil",
+   "description": "<p>Subfusil ocultable.</p>"
+  },
+  "Fl6F6x2PstAthge7": {
+   "name": "Lanzamisiles",
+   "description": "<p>Saca la artillería pesada: este lanzamisiles hará daño.</p>"
+  },
+  "G2ZYyZdkjDlerJSM": {
+   "name": "Espada (calidad excelente)",
+   "description": "<p>Arma con hoja y empuñadura, diseñada para cortar o estocar. +1 al ataque.</p>"
+  },
+  "Gky7qJb3lawgiq1u": {
+   "name": "Lanzamisiles (mala calidad)",
+   "description": "<p>Saca la artillería pesada: este lanzamisiles hará daño. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "H3TbPxxkfN9ir5kp": {
+   "name": "Naginata",
+   "description": "<p>Asta japonesa de madera con una hoja curva en un extremo. La prefieren los equipos tácticos de Arasaka para el combate cercano.</p>"
+  },
+  "HOgtO363Rw42ZHMp": {
+   "name": "Pistola pesada (mala calidad)",
+   "description": "<p>Pistola pesada ocultable. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "IctYbE3ZOOR2yw5H": {
+   "name": "Lanzagranadas Militech «Cowboy» U-56",
+   "description": "<p>Lanzagranadas exótico con CDD 2. Admite cuatro granadas. Requiere TCO 11 o más (salvo montado).</p>"
+  },
+  "JHGbw24quociaZKc": {
+   "name": "Machete (calidad excelente)",
+   "description": "<p>Cuchillo de hoja larga con muchos usos. Es el favorito de algunas pandillas de Night City. +1 al ataque.</p>"
+  },
+  "KgqUdz9Fs55747gv": {
+   "name": "Lanzagranadas",
+   "description": "<p>Lanzagranadas de alto impacto. Admite muchos tipos de granadas.</p>"
+  },
+  "L4aHgrhuHNzcyXTY": {
+   "name": "Escopeta (mala calidad)",
+   "description": "<p>Escopeta polivalente. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "LIGE9re7IZWkvU4g": {
+   "name": "Arco (mala calidad)",
+   "description": "<p>Arco renovado; se recarga como parte de la acción de ataque. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "MmFM7zOUJI6ik1AP": {
+   "name": "Subfusil (calidad excelente)",
+   "description": "<p>Subfusil ocultable. +1 al ataque.</p>"
+  },
+  "O1brHdazB6mqbVp1": {
+   "name": "Porra aturdidora",
+   "description": "<p>Arma cuerpo a cuerpo mediana exótica, a una mano. El objetivo queda inconsciente si el daño lo dejaría por debajo de 1 PV. No causa heridas críticas ni ablación a la armadura.</p>"
+  },
+  "PJhu6eY766OegZBo": {
+   "name": "Escopeta",
+   "description": "<p>Escopeta polivalente.</p>"
+  },
+  "PxOjhUUs7cRULv75": {
+   "name": "Arma cuerpo a cuerpo muy pesada",
+   "description": "<p>Arma cuerpo a cuerpo muy pesada genérica.</p>"
+  },
+  "QCtW6zOzx0zp88ji": {
+   "name": "Motosierra",
+   "description": "<p>Sierra portátil y recargable que funciona con CHOOH<sup>2</sup>. Dura unas 2-3 horas con un depósito.</p>"
+  },
+  "QrQNdHTuEDxrfIxS": {
+   "name": "Fusil de asalto",
+   "description": "<p>Fusil de asalto reglamentario.</p>"
+  },
+  "Rju0qV9mEaZ8oJhG": {
+   "name": "Tsunami Arms Helix",
+   "description": "<p>Fusil de asalto exótico que solo dispara en automático. Admite 40 balas y gasta 20 en cada ataque. Usa las reglas de disparo automático con un multiplicador máximo de 5. Requiere TCO 11 o más (salvo montado).</p>"
+  },
+  "TIIsI6khCIZE4iip": {
+   "name": "Motosierra (calidad excelente)",
+   "description": "<p>Sierra portátil y recargable que funciona con CHOOH<sup>2</sup>. Dura unas 2-3 horas con un depósito. +1 al ataque.</p>"
+  },
+  "TQvsBbPEBc13SdVC": {
+   "name": "Arma cuerpo a cuerpo ligera (calidad excelente)",
+   "description": "<p>Arma cuerpo a cuerpo ligera genérica. +1 al ataque.</p>"
+  },
+  "UTScbqdHmttI41Xu": {
+   "name": "Motosierra (mala calidad)",
+   "description": "<p>Sierra portátil y recargable que funciona con CHOOH<sup>2</sup>. Dura unas 2-3 horas con un depósito. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "UlNLm2tio4pdgOgV": {
+   "name": "Cuchillo de combate",
+   "description": "<p>Un cuchillo hecho para la calle.</p>"
+  },
+  "UzYcFOm0knIcLVF0": {
+   "name": "Tubería de plomo",
+   "description": "<p>Un cilindro hueco, normalmente de metal o de fibra de vidrio. Puede que alguna vez llevara líquidos.</p>"
+  },
+  "VtHbu4C8Pg0H2oOD": {
+   "name": "Bate de béisbol",
+   "description": "<p>Un bate bien contrapesado. El arma favorita de las Baseball Furies.</p>"
+  },
+  "VwuC5ZtcKsqtFHms": {
+   "name": "Pistola mediana",
+   "description": "<p>Pistola mediana ocultable.</p>"
+  },
+  "X6VYB5awDbtURwIv": {
+   "name": "Desarmado",
+   "description": "<p>Golpes a mano limpia; no ignoran la mitad de la armadura.</p>"
+  },
+  "XUCQZKCL0t1HhOmR": {
+   "name": "Mazo (mala calidad)",
+   "description": "<p>Un objeto grande en forma de maza con una cabeza metálica plana que reparte la fuerza del golpe sobre una zona amplia. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "XhMHJrLaYsmrK3J9": {
+   "name": "Tubería de plomo (calidad excelente)",
+   "description": "<p>Un cilindro hueco, normalmente de metal o de fibra de vidrio. Puede que alguna vez llevara líquidos. +1 al ataque.</p>"
+  },
+  "Y433cjlB1uVHPysk": {
+   "name": "Pistola pesada",
+   "description": "<p>Pistola pesada ocultable.</p>"
+  },
+  "YFAt5vDcufYFtFCr": {
+   "name": "Malorian Arms 3516",
+   "description": "<p>Pistola muy pesada exótica de calidad excelente. Lleva una conexión de arma inteligente que no puede desinstalarse.</p>"
+  },
+  "ZgcPrSNsggkm8D0w": {
+   "name": "Machete",
+   "description": "<p>Cuchillo de hoja larga con muchos usos. Es el favorito de algunas pandillas de Night City.</p>"
+  },
+  "ajKRWajN4eAHC50E": {
+   "name": "Arma cuerpo a cuerpo ligera (mala calidad)",
+   "description": "<p>Arma cuerpo a cuerpo ligera genérica. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "bRUdp9rScPoOZwsB": {
+   "name": "Espada (mala calidad)",
+   "description": "<p>Arma con hoja y empuñadura, diseñada para cortar o estocar. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "eBiYEY7wwTGQeE1g": {
+   "name": "Subfusil (mala calidad)",
+   "description": "<p>Subfusil ocultable. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "et4avnof5XKvoHTS": {
+   "name": "Palanca (calidad excelente)",
+   "description": "<p>Útil como herramienta y como arma. Una barra de hierro con extremos en cuña. +1 al ataque.</p>"
+  },
+  "evxblJ6pHKLXz3c2": {
+   "name": "Cuchillo de combate (calidad excelente)",
+   "description": "<p>Un cuchillo hecho para la calle. +1 al ataque.</p>"
+  },
+  "ewjRv6jzfBSR0o6e": {
+   "name": "Bate con clavos",
+   "description": "<p>Una mejora sobre el bate normal: tiene varios clavos atravesados cerca de la punta.</p>"
+  },
+  "fQkgTc2gRtpuZvtX": {
+   "name": "Arco (calidad excelente)",
+   "description": "<p>Arco renovado; se recarga como parte de la acción de ataque. +1 al ataque.</p>"
+  },
+  "fSvkIl83Rsqd7O16": {
+   "name": "Lanzadardos",
+   "description": "<p>Pistola muy pesada exótica.</p>"
+  },
+  "g1WPHBmTgxEHTbSp": {
+   "name": "Fusil de francotirador (calidad excelente)",
+   "description": "<p>Fusil de francotirador de largo alcance. El cargador admite 4 balas. +1 al ataque.</p>"
+  },
+  "g2d7I3KLRXXbMr1g": {
+   "name": "Arma cuerpo a cuerpo pesada",
+   "description": "<p>Arma cuerpo a cuerpo pesada genérica.</p>"
+  },
+  "glDRehQyz40desZo": {
+   "name": "Cuchillo de combate (mala calidad)",
+   "description": "<p>Un cuchillo hecho para la calle. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "grEw5oU6WDsqAOvY": {
+   "name": "Arma cuerpo a cuerpo mediana (calidad excelente)",
+   "description": "<p>Arma cuerpo a cuerpo mediana genérica. +1 al ataque.</p>"
+  },
+  "hW4eIbo01Hx2Jnc2": {
+   "name": "Artes marciales",
+   "description": "<p>Golpes a mano limpia; ignoran la mitad de la armadura.</p>"
+  },
+  "hvxl5hrwWBPZmSwF": {
+   "name": "Arma cuerpo a cuerpo ligera",
+   "description": "<p>Arma cuerpo a cuerpo ligera genérica.</p>"
+  },
+  "iIWzx4Ae6eUZmqcQ": {
+   "name": "Ballesta (mala calidad)",
+   "description": "<p>Ballesta normal; se recarga como parte de la acción de ataque. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "iSyf14qCf2US6im1": {
+   "name": "Pistola de aire",
+   "description": "<p>Pistola mediana exótica. Dispara bolas de pintura. Cargada con ácido, produce 1 de ablación a la armadura con cada impacto.</p>"
+  },
+  "jwR2EkIcklythvSz": {
+   "name": "Tomahawk",
+   "description": "<p>Hacha ligera que se puede lanzar.</p>"
+  },
+  "kS2YEit2JQqrjfcR": {
+   "name": "Pistola muy pesada (calidad excelente)",
+   "description": "<p>Pistola muy pesada. No puede ocultarse. +1 al ataque.</p>"
+  },
+  "lKlvupxxfKfNVPEc": {
+   "name": "Arma cuerpo a cuerpo mediana",
+   "description": "<p>Arma cuerpo a cuerpo mediana genérica.</p>"
+  },
+  "lkynJgL5MTDuHwPq": {
+   "name": "Arma cuerpo a cuerpo pesada (calidad excelente)",
+   "description": "<p>Arma cuerpo a cuerpo pesada genérica. +1 al ataque.</p>"
+  },
+  "m3Wv89jTjW8BHEhE": {
+   "name": "Tomahawk (calidad excelente)",
+   "description": "<p>Hacha ligera que se puede lanzar. +1 al ataque.</p>"
+  },
+  "n8wOKWrJUC0ZS5jg": {
+   "name": "Arco",
+   "description": "<p>Arco renovado; se recarga como parte de la acción de ataque.</p>"
+  },
+  "nFXxinLVjYA06z1K": {
+   "name": "Subfusil pesado",
+   "description": "<p>Subfusil pesado. Por su tamaño no puede ocultarse.</p>"
+  },
+  "nmLsegi1CElgRVD3": {
+   "name": "Subfusil pesado (calidad excelente)",
+   "description": "<p>Subfusil pesado. Por su tamaño no puede ocultarse. +1 al ataque.</p>"
+  },
+  "oQ4mV07fh1et5zI7": {
+   "name": "Pistola de microondas",
+   "description": "<p>Pistola muy pesada exótica. Inutiliza durante un minuto el ciberequipo o los componentes eléctricos salvo que el objetivo supere una prueba de <strong>Cibertecnología VD15</strong>.</p><p><em>Selecciona el token del objetivo y usa @UUID[Compendium.cyberpunk-red-core.other_macros.Macro.z8NN97JkdZUUFYud]{Get EMP'd Items} para saber qué objetos quedan afectados.</em></p>"
+  },
+  "qAqYtbD1yFgQNelR": {
+   "name": "Lanzallamas",
+   "description": "<p>Escopeta exótica que usa la habilidad Armas pesadas.</p>"
+  },
+  "qjUfGfpQO16ntqHt": {
+   "name": "Arma cuerpo a cuerpo pesada (mala calidad)",
+   "description": "<p>Arma cuerpo a cuerpo pesada genérica. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "riJDKdjhCWwkW4MO": {
+   "name": "Fusil de francotirador",
+   "description": "<p>Fusil de francotirador de largo alcance. El cargador admite 4 balas.</p>"
+  },
+  "sh57bxMsMkSVx2cA": {
+   "name": "Bate con clavos (calidad excelente)",
+   "description": "<p>Una mejora sobre el bate normal: tiene varios clavos atravesados cerca de la punta. +1 al ataque.</p>"
+  },
+  "tCTzi4miYdNgAJVc": {
+   "name": "Pistola mediana (mala calidad)",
+   "description": "<p>Pistola mediana ocultable. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "tcok1yUmGF0qCn5D": {
+   "name": "Naginata (calidad excelente)",
+   "description": "<p>Asta japonesa de madera con una hoja curva en un extremo. La prefieren los equipos tácticos de Arasaka para el combate cercano. +1 al ataque.</p>"
+  },
+  "tzWTzy28fH8N092r": {
+   "name": "Lanzamisiles (calidad excelente)",
+   "description": "<p>Saca la artillería pesada: este lanzamisiles hará daño. +1 al ataque.</p>"
+  },
+  "vfITAP3Y0Hn1Ygjy": {
+   "name": "Mazo (calidad excelente)",
+   "description": "<p>Un objeto grande en forma de maza con una cabeza metálica plana que reparte la fuerza del golpe sobre una zona amplia. +1 al ataque.</p>"
+  },
+  "vmOTJujlh0K6dfBX": {
+   "name": "Arma cuerpo a cuerpo mediana (mala calidad)",
+   "description": "<p>Arma cuerpo a cuerpo mediana genérica. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "vqUPo2YSPLAcV04T": {
+   "name": "Aspas de helicóptero",
+   "description": "<p>Sacadas de una aeronave abandonada, estas aspas cortan casi cualquier cosa con facilidad.</p>"
+  },
+  "wDPkVbsM0UK9vwoW": {
+   "name": "Tubería de plomo (mala calidad)",
+   "description": "<p>Un cilindro hueco, normalmente de metal o de fibra de vidrio. Puede que alguna vez llevara líquidos. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "wNHXTitRqLd1X0Do": {
+   "name": "Fusil de asalto (mala calidad)",
+   "description": "<p>Fusil de asalto reglamentario. Si sacas un 1 en el ataque (pifia), el arma se encasquilla y hay que usar una acción para desatascarla.</p>"
+  },
+  "x3ZTVLJRsCd4vxVq": {
+   "name": "Aspas de helicóptero (mala calidad)",
+   "description": "<p>Sacadas de una aeronave abandonada, estas aspas cortan casi cualquier cosa con facilidad. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "yJ8sMz4BMgQ7ZH3K": {
+   "name": "Pistola aturdidora",
+   "description": "<p>Pistola pesada exótica. El objetivo queda inconsciente si el daño lo dejaría por debajo de 1 PV. No causa heridas críticas ni ablación a la armadura.</p>"
+  },
+  "zIxmmhvmW64lE1y3": {
+   "name": "Naginata (mala calidad)",
+   "description": "<p>Asta japonesa de madera con una hoja curva en un extremo. La prefieren los equipos tácticos de Arasaka para el combate cercano. Si sacas un 1 en el ataque (pifia), el arma falla de algún modo y hace falta una acción para volver a usarla.</p>"
+  },
+  "zl2qzlFpS7IsJASO": {
+   "name": "Lanzagranadas (calidad excelente)",
+   "description": "<p>Lanzagranadas de alto impacto. Admite muchos tipos de granadas. +1 al ataque.</p>"
+  },
+  "zqGFSxTSOErGjXeU": {
+   "name": "Pistola mediana (calidad excelente)",
+   "description": "<p>Pistola mediana ocultable. +1 al ataque.</p>"
+  }
+ }
+}

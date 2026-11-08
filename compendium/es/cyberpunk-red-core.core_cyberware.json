@@ -1,0 +1,425 @@
+{
+ "label": "Ciberequipo",
+ "entries": {
+  "0d2bEozOFhfPgkUP": {
+   "name": "Biomonitor",
+   "description": "<p>Muestra las constantes vitales en una pantalla LED. Puede vincularse a tu agente.</p>"
+  },
+  "1GPXBuKIodbM3O0I": {
+   "name": "Montura de cambio rápido",
+   "description": "<p>Tu ciberbrazo puede soltarse y volver a acoplarse (o cambiarse) usando el zócalo libre. Ten un brazo para cada ocasión.</p>"
+  },
+  "1vcWKBzXQuBkJ3Dl": {
+   "name": "Filtros nasales",
+   "description": "<p>Inmunidad a gases y humos inhalables.</p>"
+  },
+  "2AE8D8ZdRA815IZK": {
+   "name": "Agente interno",
+   "description": "<p>Agente integrado. Solo audio, pero puede vincularse con otro ciberequipo.</p>"
+  },
+  "2EvWIW0HXwoBK6xq": {
+   "name": "Escáner técnico",
+   "description": "<p>Contiene varios aparatos y herramientas integrados. +2 a varias pruebas de habilidad.</p>"
+  },
+  "2XhNJ80rCSvxAenP": {
+   "name": "Armazón lineal implantado ∑ (Sigma)",
+   "description": "<ul><li>Requiere TCO 6 y un implante de hueso y músculo.</li><li>Eleva el TCO a 12 (con sus PV, umbral de herida y salvación contra muerte).</li></ul>"
+  },
+  "2Y63wKxk8P94YQUP": {
+   "name": "Ciberbrazo de grado médico",
+   "description": "<p>Ciberbrazo de grado médico. No admite opciones.</p>"
+  },
+  "2vSTximwCOxNPGJX": {
+   "name": "Empuñadura subcutánea",
+   "description": "<p>Placas en la mano que permiten usar armas inteligentes. Requiere conexión neuronal.</p>"
+  },
+  "343Bc0xzAzX3bcB7": {
+   "name": "Microópticos",
+   "description": "<p>Hasta 400 aumentos.</p>"
+  },
+  "3JmrxH1mrD592Hxa": {
+   "name": "Protección antideslumbrante",
+   "description": "<p>Debe instalarse por pares. Inmunidad a los efectos deslumbrantes (como las granadas cegadoras).</p>"
+  },
+  "3LDuErXOiN3nkRl2": {
+   "name": "Grabadora de audio",
+   "description": "<p>Graba sonido. Puede conectarse a un chip o a un agente.</p>"
+  },
+  "4zD0X4SZ3kqI9XJr": {
+   "name": "Arma cuerpo a cuerpo oculta",
+   "description": "<p>Arma cuerpo a cuerpo de una mano ocultable. No puedes sujetar nada con esa mano mientras está activada.</p><blockquote><p>Configura los ajustes según el arma que instales.</p></blockquote>"
+  },
+  "5OrBv1knKOvpqDH7": {
+   "name": "Ciberpierna de grado médico",
+   "description": "<p>Ciberpierna de grado médico. No admite opciones.</p>"
+  },
+  "5PWjp9rOnZuhYPPu": {
+   "name": "Analizador de voz",
+   "description": "<p>+2 a las pruebas de Percepción humana e Interrogatorio. Puede activar un modo especial de detección de mentiras.</p>"
+  },
+  "6JMYrnxIsTgSmbFi": {
+   "name": "Armazón lineal implantado β (Beta)",
+   "description": "<ul><li>Requiere TCO 8 y 2 implantes de hueso y músculo.</li><li>Eleva el TCO a 14 (con sus PV, umbral de herida y salvación contra muerte).</li></ul>"
+  },
+  "6jicmuwJKrB98O1R": {
+   "name": "Quimipiel",
+   "description": "<p>+2 a Cuidado personal si usas también tecnopelo. Cambia de tono.</p>"
+  },
+  "6xKxgXAGcxK05CqM": {
+   "name": "Nudillos de acero",
+   "description": "<p>Nudillos blindados que funcionan como arma cuerpo a cuerpo.</p>"
+  },
+  "9mLNqf0t3qWKAqXj": {
+   "name": "Detector de radiación",
+   "description": "<p>Muestra la radiación con un brillo azul. Alcance máximo: 100 m.</p>"
+  },
+  "9pZMYMlVFeWDS56L": {
+   "name": "Escucha amplificada",
+   "description": "<p>+2 a las pruebas de Percepción que usen el oído.</p>"
+  },
+  "AAzvZil3N8CJfwW8": {
+   "name": "Implante sexual Mr. Studd™",
+   "description": "<p>Listo cuando tú lo estés.</p>"
+  },
+  "APmOX0zOhga6Z1e6": {
+   "name": "Ciberpierna",
+   "description": "<p>Pierna cibernética de repuesto. Incluye un pie.</p>"
+  },
+  "B59L6Lf0RtqTDUw7": {
+   "name": "Escáner médico",
+   "description": "<p>Escáner médico integrado que permite evaluar heridas con rapidez. +2 a las pruebas de Primeros auxilios y Paramédico.</p>"
+  },
+  "BE35FKj9lWvxAxb0": {
+   "name": "Chip de habilidad de coste doble",
+   "description": "<p>Chip. Da un valor de 3 a una habilidad concreta de coste doble (×2) mientras está instalado (salvo que ya sea 3 o más).</p>"
+  },
+  "BUKAOysOkAkwaRqo": {
+   "name": "Mano estándar",
+   "description": "<p>Parece una mano normal casi en todo.</p>"
+  },
+  "CHQVWD2VlDiWJSzf": {
+   "name": "Recubrimiento de Superchrome® (brazo)",
+   "description": "<p>Recubrimiento metálico para el brazo. +2 a Vestuario y estilo.*</p><p><em>*Nota: los efectos de Superchrome no se acumulan; si hay varios objetos de Superchrome instalados, gestiónalos en la pestaña Efectos.</em></p>"
+  },
+  "DBBqtiw87n0yCJCW": {
+   "name": "Recubrimiento plástico (pierna)",
+   "description": "<p>Un tipo de recubrimiento plástico para la pierna.</p>"
+  },
+  "Ei3yxvm439sFX7Z3": {
+   "name": "Recubrimiento de Realskinn™ (brazo)",
+   "description": "<p>Un tipo de piel artificial para el brazo.</p>"
+  },
+  "FAeFRF71yjUlR3nk": {
+   "name": "Suministro de aire independiente",
+   "description": "<p>30 minutos de aire respirable recargable.</p>"
+  },
+  "GUT0BBUD2iKpPRoM": {
+   "name": "Desgarradores",
+   "description": "<p>Garras que salen de los nudillos y son un arma cuerpo a cuerpo pesada. Pueden ocultarse.</p>"
+  },
+  "I08f3hOEgAPNG4kJ": {
+   "name": "Escudo oculto",
+   "description": "<p>Escudo antibalas plegable que se despliega o se oculta con facilidad. No puedes sujetar nada con esa mano mientras está activado.</p><blockquote><p>Añade el @UUID[Compendium.cyberpunk-red-core.core_armor.Item.Bg1YEeF25HhfrzOG]{Escudo antibalas} al inventario para llevar la cuenta de sus PV.</p></blockquote>"
+  },
+  "IJarQGKk5rPayoLT": {
+   "name": "Zócalo para chips",
+   "description": "<p>Un zócalo para instalar y retirar una pieza de chipware.</p>"
+  },
+  "IdSRZEcuCutjFB1D": {
+   "name": "Lanzadardos",
+   "description": "<p>Arma de un solo disparo que puede ocultarse.</p>"
+  },
+  "Ie6Wzt8dwpdQ516v": {
+   "name": "Virtualidad",
+   "description": "<p>Debe instalarse por pares. Gafas de realidad virtual integradas.</p>"
+  },
+  "Iqa0DXFWJji0JRHl": {
+   "name": "Luz tenue/Infrarrojos/Ultravioletas",
+   "description": "<p>Debe instalarse por pares. Ignora las penalizaciones a la visión por la iluminación o por niebla y humo.</p>"
+  },
+  "Iu2wDz9q6Ov0UAKo": {
+   "name": "Soporte multióptico",
+   "description": "<p>Permite instalar hasta 5 ciberojos más. Ciberojos no incluidos.</p>"
+  },
+  "IwI8Ii32mqpaYeyA": {
+   "name": "Recubrimiento plástico (brazo)",
+   "description": "<p>Un tipo de recubrimiento plástico para el brazo.</p>"
+  },
+  "Iwa8bEog21Kccvmc": {
+   "name": "Codificador/Descodificador",
+   "description": "<p>Codifica y descodifica transmisiones.</p>"
+  },
+  "J2sKdlerg9DCFtkI": {
+   "name": "Reloj subcutáneo",
+   "description": "<p>Un reloj LED bajo la piel.</p>"
+  },
+  "JkQflgLDMmgLBZbc": {
+   "name": "Vampiros",
+   "description": "<p>Dientes afilados que son un arma cuerpo a cuerpo ligera. Pueden usar venenos o toxinas.</p>"
+  },
+  "JwM7wAbmRZfL3Z3c": {
+   "name": "Implante de radar/sonar",
+   "description": "<p>Escanea 50 m a tu alrededor. No funciona a través de coberturas.</p>"
+  },
+  "KVn4A1c6svXPovI4": {
+   "name": "Detector de radares",
+   "description": "<p>Avisa de radares activos en un radio de 1,6 km (1 milla).</p>"
+  },
+  "KofoAolDFb3rvpbL": {
+   "name": "Conectores interface",
+   "description": "<p>Conectores en la muñeca o en la cabeza para conectarse a máquinas y sistemas sin usar las manos.</p>"
+  },
+  "Lx9FSNDEIxLZ7Pyh": {
+   "name": "Implante de hueso y músculo",
+   "description": "<p>Aumenta el TCO en 2 (y las características derivadas). Acumulable. TCO máximo de 10.</p>"
+  },
+  "MVTHnEFMD7S3d1D9": {
+   "name": "Potenciadores de salto",
+   "description": "<p>Su hidráulica integrada anula la penalización por saltar. Deben instalarse por pares.</p>"
+  },
+  "NjcHWKjj6h2OE4Kb": {
+   "name": "Lentes cambiantes",
+   "description": "<p>Cambian el color de los ojos. Se activan y desactivan a voluntad.</p>"
+  },
+  "O5GmxTYCrrs8uWAd": {
+   "name": "Blindaje subdérmico",
+   "description": "<p>Ciberequipo corporal externo*. Armadura de cabeza y cuerpo PD11; recupera 1 PD al día. No se acumula con otra armadura.</p><p><em>* La armadura de ciberequipo no funciona como armadura en el sistema: añade el objeto «Blindaje subdérmico» al personaje o al secuaz para llevar la cuenta.</em></p>"
+  },
+  "OhW1h2rwb7lvJPs3": {
+   "name": "Antitoxinas",
+   "description": "<p>+2 a las pruebas de Resistir torturas/drogas.</p>"
+  },
+  "QDM0kdE3MK9YzjY3": {
+   "name": "Pie con patín",
+   "description": "<p>Al correr, tu movimiento aumenta en 6 m. Debe instalarse por pares.</p>"
+  },
+  "RJLEe558aeef5kHr": {
+   "name": "Chip de habilidad",
+   "description": "<p>Chip.</p><p>Fija una habilidad en 3 salvo que ya sea superior a 3*.</p><p><em>* No está automatizado: modifica la habilidad a mano.</em></p>"
+  },
+  "RRXm4nt2yOVqtcZV": {
+   "name": "Revestimiento reforzado (pierna)",
+   "description": "<p>Los efectos PEM no afectan a la pierna ni a las opciones instaladas.</p>"
+  },
+  "RT4NU0EbvmkgoSpZ": {
+   "name": "Ciberbrazo",
+   "description": "<p>Brazo cibernético de repuesto. Incluye una mano.</p>"
+  },
+  "TORJ5nowRNlRCeqU": {
+   "name": "Recubrimiento de Realskinn™ (pierna)",
+   "description": "<p>Un tipo de piel artificial para la pierna.</p>"
+  },
+  "TievDHlAoROyoynx": {
+   "name": "Lanzagranadas oculto",
+   "description": "<p>Lanzagranadas ocultable de un solo disparo. No puedes sujetar nada con esa mano mientras está activado. Incompatible con todas las mejoras salvo @UUID[Compendium.cyberpunk-red-core.core_upgrades.Item.BC8S1sdK0QGdyHNC]{Conexión de arma inteligente}.</p>"
+  },
+  "U4RT0J4GJLz7gmby": {
+   "name": "Grabadora de danza cerebral",
+   "description": "<p>Graba recuerdos para reproducirlos como danza cerebral. Ideal para periodistas.</p>"
+  },
+  "UX79WfUt7Yungbx7": {
+   "name": "Cibervelocidad Sandevistan",
+   "description": "<p>Cibervelocidad. +3 a la Iniciativa durante 1 minuto. Recarga de 1 hora.</p>"
+  },
+  "UzJBUdhSbGW6wzA2": {
+   "name": "Analizador químico",
+   "description": "<p>Chip. Analiza la composición química de algo.</p>"
+  },
+  "VbMY2fs3im1sP2dJ": {
+   "name": "Tatuaje luminoso",
+   "description": "<p>Tatuajes brillantes. +2 a Vestuario y estilo si tienes al menos tres instalados.</p>"
+  },
+  "W7S33SRvtrZUpceP": {
+   "name": "Pie estándar",
+   "description": "<p>Parece un pie normal casi en todo.</p>"
+  },
+  "WDAHvqIooCSGWnCz": {
+   "name": "Pistolera oculta",
+   "description": "<p>Una pistolera escondida dentro de tu cuerpo.</p>"
+  },
+  "WzgaetvvHUQeD19B": {
+   "name": "Brazo de carne",
+   "description": "<p>Un brazo normal. Como única pieza instalada, admite accesorios como una mano estándar o algunas armas y herramientas.</p>"
+  },
+  "Y0ILjIs1E1o0SRUV": {
+   "name": "Agallas",
+   "description": "<p>Permiten respirar bajo el agua.</p>"
+  },
+  "YPujgoyVf2ZBR1hK": {
+   "name": "Ciberserpiente",
+   "description": "<p>Una serpiente en la garganta que es un arma cuerpo a cuerpo muy pesada.</p>"
+  },
+  "YRR8D6hUfq55KnoR": {
+   "name": "Mejora de imagen",
+   "description": "<p>Debe instalarse por pares. +2 a Percepción, Leer los labios y Ocultar/revelar objeto cuando se usa la vista.</p>"
+  },
+  "YzRXqhofQHcRcHFr": {
+   "name": "Microvídeo",
+   "description": "<p>Una cámara en el ojo que puede conectarse a un chip o a un agente. Ideal para periodistas.</p>"
+  },
+  "aC234RUXPPUb08cO": {
+   "name": "Ciberojo",
+   "description": "<p>Un ojo artificial. ¡Elige Kiroshi Optics!</p>"
+  },
+  "aEG91CA3amfU0Q8U": {
+   "name": "Pie prensil",
+   "description": "<p>Da tracción para trepar en vertical. Debe instalarse por pares.</p>"
+  },
+  "dM6LI4fqDdgut7Uy": {
+   "name": "Garras",
+   "description": "<p>Uñas afiladas que son un arma cuerpo a cuerpo ligera. Pueden ocultarse.</p>"
+  },
+  "dMiVrdVIK0ERAUYB": {
+   "name": "Pie palmeado",
+   "description": "<p>Membranas entre los dedos que permiten nadar. Debe instalarse por pares.</p>"
+  },
+  "eZg3gGGEJ7r2K9ng": {
+   "name": "Ciberterminal implantado",
+   "description": "<p>Ciberterminal integrado. Siempre disponible.</p>"
+  },
+  "eapyCpVJd8BdGPMU": {
+   "name": "Panel de sensores",
+   "description": "<p>Permite instalar hasta 5 opciones de ciberaudio más.</p>"
+  },
+  "gAfBLrpJzkKVtr8o": {
+   "name": "Chip de memoria",
+   "description": "<p>Chip. Almacenamiento de datos: como una memoria USB para el cerebro. Expúlsalo con seguridad.</p>"
+  },
+  "gDN0U6mp3axrm9KQ": {
+   "name": "Pierna de carne",
+   "description": "<p>Una pierna normal. Admite accesorios como un pie estándar o armas como el pie con garra.</p>"
+  },
+  "gUvoOayETJInctg8": {
+   "name": "Arma a distancia oculta",
+   "description": "<p>Arma a distancia de una mano ocultable. No puedes sujetar nada con esa mano mientras está activada.</p><blockquote><p>Configura los ajustes según el arma que instales.</p></blockquote>"
+  },
+  "hAx2MqVm4JuwXsSV": {
+   "name": "Mano con herramientas",
+   "description": "<p>Cada dedo de la mano es una herramienta distinta. ¡Ideal para técnicos!</p>"
+  },
+  "hQzMZYd3Tt0SIE1v": {
+   "name": "Anticuerpos optimizados",
+   "description": "<p>Duplica la curación natural durante el descanso.</p>"
+  },
+  "hsoSD662cLKvHKZJ": {
+   "name": "Equipo de ciberaudio",
+   "description": "<p>Interfaz base para las mejoras auditivas.</p>"
+  },
+  "jAdhAAhK6fHHTEU2": {
+   "name": "Cambio de color",
+   "description": "<p>Permite cambiar los ojos a un número ilimitado de colores y dibujos.</p>"
+  },
+  "ju5Rq9rOe2lpDKKl": {
+   "name": "Conexión neuronal",
+   "description": "<p>Acceso al sistema nervioso.</p>"
+  },
+  "k2Q1XVCKESAYAi0c": {
+   "name": "Detector de micrófonos",
+   "description": "<p>Avisa de micrófonos o escuchas a menos de 2 m.</p>"
+  },
+  "kPYQ2Fod5FQvED38": {
+   "name": "Bolsillo subcutáneo",
+   "description": "<p>Bolsillo bajo la piel de 5 × 10 cm (2 × 4 pulgadas).</p>"
+  },
+  "ktZgOfy6ye0EJmt6": {
+   "name": "Cámara de hombro",
+   "description": "<p>Cámara replegable que sale del hombro. Puede conectarse a un agente o a un chip de memoria.</p>"
+  },
+  "l0rpyL5qxjIBOYZJ": {
+   "name": "Implante sexual Midnight Lady™",
+   "description": "<p>Apto para lavadora.</p>"
+  },
+  "lJRnJRm5wsZRC7SK": {
+   "name": "Pie con garra",
+   "description": "<p>Una hoja retráctil en el pie que es un arma cuerpo a cuerpo ligera.</p>"
+  },
+  "lqyjkgvm1kvILvuw": {
+   "name": "Hombros artificiales",
+   "description": "<p>Permite instalar un par adicional de ciberbrazos.</p>"
+  },
+  "micrAI9oicghVbcG": {
+   "name": "Tejido dérmico",
+   "description": "<p>Ciberequipo corporal externo*. Armadura de cabeza y cuerpo PD7; recupera 1 PD al día. No se acumula con otra armadura.</p><p><em>* La armadura de ciberequipo no funciona como armadura en el sistema: añade el objeto «Tejido dérmico» al personaje o al secuaz para llevar la cuenta.</em></p>"
+  },
+  "nSdoCKRscSOeaZUH": {
+   "name": "Kerenzikov",
+   "description": "<p>Cibervelocidad. +2 permanente a la Iniciativa.</p>"
+  },
+  "nXAn2Sc66US0a7pg": {
+   "name": "Revestimiento reforzado (brazo)",
+   "description": "<p>Los efectos PEM no afectan al brazo ni a las opciones instaladas.</p>"
+  },
+  "o3lADTIXaa3eLryF": {
+   "name": "Rastreador",
+   "description": "<p>Seguimiento por audio de un botón rastreador hasta 1,6 km (1 milla). No incluye repuestos.</p>"
+  },
+  "oSCkXo6VZXIwjWhL": {
+   "name": "AudioVox",
+   "description": "<p>Sintetizador de autoafinación. +2 a las pruebas de Actuación y Tocar un instrumento.</p>"
+  },
+  "oeIi9BoY1WvIiqEQ": {
+   "name": "Destripadores",
+   "description": "<p>Uñas muy afiladas que son un arma cuerpo a cuerpo mediana. Pueden ocultarse.</p>"
+  },
+  "opzHe5mz24EwqNCM": {
+   "name": "Tecnopelo",
+   "description": "<p>+2 a Cuidado personal con quimipiel. Pelo que cambia de color.</p>"
+  },
+  "pJmvlPM82IPK9RCG": {
+   "name": "Amplificador olfativo",
+   "description": "<p>Chip. Permite seguir rastros por el olor.</p>"
+  },
+  "pYFotQ9V3dtVO4ks": {
+   "name": "Subpantalla",
+   "description": "<p>Una pantalla diminuta en el ojo. Imagen dentro de la imagen para los momentos aburridos.</p>"
+  },
+  "qpLAhi08ZCgbukzn": {
+   "name": "Recubrimiento de Superchrome® (pierna)",
+   "description": "<p>Recubrimiento metálico para la pierna. +2 a Vestuario y estilo.*</p><p><em>*Nota: los efectos de Superchrome no se acumulan; si hay varios objetos de Superchrome instalados, gestiónalos en la pestaña Efectos.</em></p>"
+  },
+  "t1h3krjph5M3TwQa": {
+   "name": "Implante contraceptivo",
+   "description": "<p>Evita embarazos no deseados.</p>"
+  },
+  "u0VMOMNdTt72c37W": {
+   "name": "Comunicador de radio",
+   "description": "<p>Walkie-talkie integrado. Alcance: 1,6 km (1 milla).</p>"
+  },
+  "u1TSFrsDP5i0KzFe": {
+   "name": "Troceador",
+   "description": "<p>Hilo monofilamento que es un arma cuerpo a cuerpo mediana. Puede ocultarse.</p>"
+  },
+  "uApwuxpuIJMe47Vn": {
+   "name": "Amplificador de imagen",
+   "description": "<p>Telescopio en el ojo de hasta 800 m. +1 a los disparos únicos o apuntados a más de 50 m.</p>"
+  },
+  "umX2i9wlVcBG1lgv": {
+   "name": "Editor de dolor",
+   "description": "<p>Chip. Elimina las penalizaciones por estar gravemente herido.</p>"
+  },
+  "v69jYqL7RMbs9PW4": {
+   "name": "Mano de agarre",
+   "description": "<p>Un garfio retráctil integrado en la mano.</p>"
+  },
+  "vdMfxKJPmAvcpojJ": {
+   "name": "Hebras PEM",
+   "description": "<p>Efecto de circuito impreso en la piel.</p>"
+  },
+  "wFp72x2FXhipZXPj": {
+   "name": "Sistema de puntería",
+   "description": "<p>+1 a los disparos apuntados.</p>"
+  },
+  "wMr8YQQxdBSNMq2o": {
+   "name": "Escáner de radio/Reproductor de música",
+   "description": "<p>Sintoniza emisoras de radio de la CitiNet o reproduce tu música guardada.</p>"
+  },
+  "yAqg8qVDiAc1ysYa": {
+   "name": "Atenuador de nivel",
+   "description": "<p>Inmunidad a la sordera y a los ruidos fuertes repentinos.</p>"
+  },
+  "zoj5iyIV1bVrMxzW": {
+   "name": "Amplificador táctil",
+   "description": "<p>Chip. Detecta movimiento a través de superficies hasta a 20 m.</p>"
+  }
+ }
+}

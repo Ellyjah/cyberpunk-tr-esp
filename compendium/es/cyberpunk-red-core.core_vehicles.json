@@ -1,0 +1,61 @@
+{
+ "label": "Vehículos",
+ "entries": {
+  "6cciJXompBeXxMma": {
+   "name": "Embarcación de recreo",
+   "description": "<p>Lancha muy rápida. Requiere un mínimo de dos camarotes. El precio es por cada camarote bajo cubierta.</p>"
+  },
+  "DreAdvzXmJsiSWyy": {
+   "name": "Coche de alta cilindrada",
+   "description": "<p>Coche especializado, diseñado para el rendimiento deportivo.</p>"
+  },
+  "TsyueQcA4aeBN6xU": {
+   "name": "Girocóptero",
+   "description": "<p>Pequeño aparato de rotor de dos plazas.</p>"
+  },
+  "W6SZVj8BHHXbpPOz": {
+   "name": "Súper aerodino AV-9",
+   "description": "<p>AV muy avanzado con pocas plazas. Alcanza unos 480 km/h (300 millas por hora).</p>"
+  },
+  "WNqG41VJWwDzQaIY": {
+   "name": "Aerodino polivalente AV-4",
+   "description": "<p>Aeronave polivalente capaz de inserciones rápidas gracias a sus propulsores verticales. Muy usada por los equipos de Trauma Team.</p>"
+  },
+  "Wo98wgEQA6B7FnMF": {
+   "name": "Yate",
+   "description": "<p>Lancha de lujo. Requiere un mínimo de dos camarotes. El precio es por cada camarote bajo o sobre cubierta.</p>"
+  },
+  "eKqDVQo3mzD16pCc": {
+   "name": "Lancha",
+   "description": "<p>Lancha rápida propulsada por CHOOH<sup>2</sup>.</p>"
+  },
+  "jQAAGVWOKKhzEIMK": {
+   "name": "Moto de carretera",
+   "description": "<p>Moto de carretera común propulsada por CHOOH<sup>2</sup>, habitual en la Era del Rojo.</p>"
+  },
+  "jR1AReHKQFieIdWD": {
+   "name": "Coche compacto",
+   "description": "<p>Coche propulsado por CHOOH<sup>2</sup>. Muy común; hay decenas de fabricantes que producen modelos parecidos.</p>"
+  },
+  "p4jR9nv6Ob90axwL": {
+   "name": "Supermoto",
+   "description": "<p>Versión potenciada de la moto de carretera, capaz de alcanzar velocidades muy altas.</p>"
+  },
+  "pnc2jyjtjTNDZKCT": {
+   "name": "Aerozep",
+   "description": "<p>Dirigible de carga moderno. Requiere un mínimo de dos camarotes. El precio es por cada camarote bajo cubierta.</p>"
+  },
+  "r5x9bz7XA12gIiRY": {
+   "name": "Helicóptero",
+   "description": "<p>Helicóptero de cuatro plazas, capaz de alcanzar grandes velocidades y de hacer vuelos largos.</p>"
+  },
+  "sFmW1uCXb2hsP7Dy": {
+   "name": "Supercoche",
+   "description": "<p>Deportivo caro y exótico propulsado por CHOOH<sup>2</sup>. Alcanza velocidades muy altas.</p>"
+  },
+  "x0E0hYFqfP3qJGPT": {
+   "name": "Moto acuática",
+   "description": "<p>Moto acuática común propulsada por CHOOH<sup>2</sup>, con plaza para dos personas.</p>"
+  }
+ }
+}

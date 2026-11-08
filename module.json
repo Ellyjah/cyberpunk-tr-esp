@@ -1,0 +1,50 @@
+{
+  "id": "cyberpunk-tr-esp",
+  "title": "Cyberpunk RED — Traducción al castellano",
+  "version": "1.0.0",
+  "description": "Traduce al castellano los compendios básicos del sistema Cyberpunk RED – Core (objetos, roles y heridas críticas) y completa textos de su interfaz. Requiere Babele.",
+  "authors": [
+    {
+      "name": "Proyecto del director"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.343",
+    "maximum": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "cyberpunk-red-core",
+        "type": "system",
+        "compatibility": {
+          "minimum": "v0.92.4",
+          "verified": "v0.92.4"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/2.6.2/module/module.json",
+        "compatibility": {
+          "minimum": "2.6.2",
+          "verified": "2.6.2"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/init.js"
+  ],
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json",
+      "system": "cyberpunk-red-core"
+    }
+  ]
+}

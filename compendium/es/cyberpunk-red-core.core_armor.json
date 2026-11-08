@@ -1,0 +1,77 @@
+{
+ "label": "Armaduras",
+ "entries": {
+  "2hwEBP93U98aRz4p": {
+   "name": "Cuero (cuerpo)",
+   "description": "<p>Armadura sencilla de cuero. Sin penalización por armadura.</p>"
+  },
+  "ANkaTbBKgBXwJy1Q": {
+   "name": "Metalgear® (cuerpo)",
+   "description": "<p>La armadura más pesada y potente en circulación. -4 a REF, DES y MOV.</p>"
+  },
+  "Bg1YEeF25HhfrzOG": {
+   "name": "Escudo antibalas",
+   "description": "<p>Requiere un brazo y tiene PV que se reducen con el daño.</p>"
+  },
+  "Bsalv6m63PhmHkMm": {
+   "name": "Chaqueta blindada ligera (cabeza)",
+   "description": "<p>Versión ligera de la chaqueta blindada, para la cabeza. Sin penalización por armadura.</p>"
+  },
+  "DXavZyl7CTtgoZ6i": {
+   "name": "Tejido dérmico",
+   "description": "<p>Armadura asociada al ciberequipo Tejido dérmico.</p>"
+  },
+  "DbASrTymPy4wHNpX": {
+   "name": "Kevlar® (cuerpo)",
+   "description": "<p>Ropa de Kevlar estándar. Sin penalización por armadura.</p>"
+  },
+  "M96Dfx18YqvhlIgb": {
+   "name": "Blindaje subdérmico",
+   "description": "<p>Armadura asociada al ciberequipo Blindaje subdérmico.</p>"
+  },
+  "ReNlsir0b9jmxnPi": {
+   "name": "Chaqueta blindada media (cabeza)",
+   "description": "<p>Versión media de la chaqueta blindada, para la cabeza. -2 a REF, DES y MOV.</p>"
+  },
+  "gCSiPGLnb78IGA1K": {
+   "name": "Cuero (cabeza)",
+   "description": "<p>Armadura sencilla de cuero para la cabeza. Sin penalización por armadura.</p>"
+  },
+  "hgYX1T8OCsSUL5zC": {
+   "name": "Traje Bodyweight",
+   "description": "<p>Traje blindado ceñido para netrunners. Puede alojar un ciberterminal y es compatible con conectores interface. No puede comprarse por piezas. Se lleva siempre en la cabeza y en el cuerpo a la vez. Añade al ciberterminal conectado una ranura de opciones solo para hardware. Sin penalización por armadura.</p>"
+  },
+  "mSF1y5Kfye57SmWf": {
+   "name": "Flak (cabeza)",
+   "description": "<p>Armadura con placas metálicas para resistir los impactos más potentes en la cabeza. -4 a REF, DES y MOV.</p>"
+  },
+  "n4nBTZca1I6bg9rs": {
+   "name": "Kevlar® (cabeza)",
+   "description": "<p>Kevlar estándar para la cabeza. Sin penalización por armadura.</p>"
+  },
+  "qLQYAFps9PrqMzUk": {
+   "name": "Chaqueta blindada pesada (cabeza)",
+   "description": "<p>Versión pesada de la chaqueta blindada, para la cabeza. -2 a REF, DES y MOV.</p>"
+  },
+  "sV2rvaWBOntsxYvC": {
+   "name": "Chaqueta blindada media (cuerpo)",
+   "description": "<p>Versión media de la chaqueta blindada. -2 a REF, DES y MOV.</p>"
+  },
+  "uaN9WukkezPfcutU": {
+   "name": "Chaqueta blindada ligera (cuerpo)",
+   "description": "<p>Versión ligera de la chaqueta blindada. Sin penalización por armadura.</p>"
+  },
+  "vYzDZIbfJ1RfCvi9": {
+   "name": "Chaqueta blindada pesada (cuerpo)",
+   "description": "<p>Versión pesada de la chaqueta blindada. -2 a REF, DES y MOV.</p>"
+  },
+  "wQXJTKA8KeEe2V2H": {
+   "name": "Flak (cuerpo)",
+   "description": "<p>Armadura con placas metálicas para resistir los impactos más potentes. -4 a REF, DES y MOV.</p>"
+  },
+  "zSjQKDoHe1cfcTkp": {
+   "name": "Metalgear® (cabeza)",
+   "description": "<p>La armadura más pesada y potente en circulación. Protege la cabeza. -4 a REF, DES y MOV.</p>"
+  }
+ }
+}
