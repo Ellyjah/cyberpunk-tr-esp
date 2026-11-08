@@ -331,7 +331,7 @@
   },
   "oQ4mV07fh1et5zI7": {
    "name": "Pistola de microondas",
-   "description": "<p>Pistola muy pesada exótica. Inutiliza durante un minuto el ciberequipo o los componentes eléctricos salvo que el objetivo supere una prueba de <strong>Cibertecnología VD15</strong>.</p><p><em>Selecciona el token del objetivo y usa @UUID[Compendium.cyberpunk-red-core.other_macros.Macro.z8NN97JkdZUUFYud]{Get EMP'd Items} para saber qué objetos quedan afectados.</em></p>"
+   "description": "<p>Pistola muy pesada exótica. Inutiliza durante un minuto el ciberequipo o los componentes eléctricos salvo que el objetivo supere una prueba de <strong>Cibertecnología VD15</strong>.</p><p><em>Selecciona el token del objetivo y usa @UUID[Compendium.cyberpunk-red-core.other_macros.Macro.z8NN97JkdZUUFYud]{Obtener objetos afectados por PEM} para saber qué objetos quedan afectados.</em></p>"
   },
   "qAqYtbD1yFgQNelR": {
    "name": "Lanzallamas",
