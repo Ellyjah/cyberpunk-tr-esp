@@ -1,5 +1,8 @@
 # Historial
 
+## 1.0.2 — 2026-11-08
+- Traducidas las especialidades de habilidad: Experto local (14 barrios, con los nombres del Core), Artes marciales (4), Tocar un instrumento (5) y Ciencia (8), y las etiquetas de sus compendios. Idiomas sigue con la traducción del propio RED. Las habilidades básicas no se tocan.
+
 ## 1.0.1 — 2026-11-08
 - Auditoría de Codex TR-ESP-AUD-100: «Te veo» da +2 a Exploración (no a Rastreo) [TR02]; Garras/Desgarradores según el libro [TR01]; enlace de la pistola de microondas en castellano; concordancia de género en los cargadores ampliados.
 - Nombres alineados con el Core: blindaje ligero/medio/pesado y cinco mejoras de vehículo.
