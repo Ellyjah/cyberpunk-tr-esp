@@ -2,8 +2,6 @@
 
 Módulo para **Foundry VTT 12** que traduce al castellano los compendios básicos del sistema **Cyberpunk RED – Core** mediante Babele, y completa los textos de interfaz que el sistema deja en inglés.
 
-*Contenido no oficial, no aprobado ni respaldado por R. Talsorian Games.*
-
 ## Qué hace
 
 **Traduce**
